@@ -1,0 +1,15 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_mfuf_r/abcdef.json",
+	"material": {
+		"material_code": {},
+		"stock":  {},
+		"quantity":  {},
+		"price":  {},
+	},
+	"document_type":  {},
+	"plant":  {},
+	"date":  {},
+}
