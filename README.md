@@ -32,3 +32,6 @@ Rededgeの下記JSONサンプルフォーマットを、formatsフォルダに�
 
  * MFUF_R_MC.json（Most Frequently Update Fields_Reads_Material Center) 
 
+## Rededgeを用いたエンドポイントUIの一例(サイネージ版)   
+![Dualscreen_ui](Documents/signage_dual_screen.PNG)   
+
