@@ -9,7 +9,8 @@
 		"quantity":  {},
 		"price":  {},
 	},
+	"document_no"
+	"date":  {},
 	"document_type":  {},
 	"plant":  {},
-	"date":  {},
 }
