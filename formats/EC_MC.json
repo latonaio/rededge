@@ -17,9 +17,9 @@
 		"quantity":  {},
 		"completed_quantity":  {},
 		     "work": {
-		     "work_no":  {},
-				 "quantity":  {},
-			   "completed_quantity":  {},
+		         "work_no":  {},
+			     "quantity":  {},
+			     "completed_quantity":  {},
 				 "errored_quantity":  {},
 				 "component":  {},
 				 "planned_component_quantity":  {},
