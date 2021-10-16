@@ -30,7 +30,8 @@ Redegeは、AIONによるマイクロサービスアーキテクチャ・稼働�
 
 Rededgeの下記JSONサンプルフォーマットを、formatsフォルダに格納しています。
 
- * MFUF_R_MC.json（Most Frequently Update Fields_Reads_Material Center) 
+ * MFUF_R_MC.json（Most Frequently Update Fields_Reads_Material Centered) 
+ * EC_MC.json（Event Converter_Material Centered) 
 
 ## Rededgeを用いたエンドポイントUIの一例(サイネージ版)   
 ![Dualscreen_ui](Documents/signage_dual_screen.PNG)   
