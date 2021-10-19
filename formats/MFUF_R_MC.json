@@ -9,8 +9,9 @@
 		"quantity":  {},
 		"price":  {},
 	},
-	"document_no"
-	"date":  {},
+	"document_no":  {},
 	"document_type":  {},
+	"planned_date":  {},
+    "validated_date":  {},
 	"plant":  {},
 }
