@@ -6,7 +6,7 @@
 
 ## Rededgeのアーキテクチャの一例（SAP S/4 HANAとLatona AION embedded の エッジアプリOMOTE-Bakoとの統合アーキテクチャ）
 
-![Rededge_Architecture](Documents/rededge_architecture_20211030.PNG)
+![Rededge_Architecture](Documents/rededge_architecture.PNG)
 
 ## Rededgeの機能
 
