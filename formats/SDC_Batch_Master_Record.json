@@ -1,10 +1,10 @@
 {
-	"connection_key": "response",
-	"result": true,
-	"redis_key": "abcdefg",
-	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
-	"batch":  {
-		  "Material":  {},
+  "connection_key": "response",
+  "result": true,
+  "redis_key": "abcdefg",
+  "filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
+  "batch":  {
+	  "Material":  {},
       "BatchIdentifyingPlant":  {},
       "Batch":  {},
       "Supplier":  {},
@@ -17,11 +17,10 @@
       "CreationDateTime":  {},
       "LastChangeDateTime":  {},
       "BatchIsMarkedForDeletion":  {},
-		},
+  },
   "api_schema": {},
   "material_code":  {},
-	"plant":  {},
-	"batch_code":  {},
+  "plant":  {},
+  "batch_code":  {},
   "deleted":  {},
- },
 }
