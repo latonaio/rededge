@@ -4,7 +4,7 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_mfuf_r/abcdef.json",
 	"document":  {
-		"document_no":  {
+		"document_no":  {},
 		"deliver_to":  {},
 		"quantity":  {},
 		"picked_quantity":  {},
