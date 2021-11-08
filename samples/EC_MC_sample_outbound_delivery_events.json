@@ -27,7 +27,6 @@
 				 "validated_date":  {},
 			 },
 		},
-	},
   "api_schema": {"sap.s4.beh.inbounddelivery.v1.InboundDelivery.Created.v1"},
   "material_code":  {"100141"},
   "plant/supplier":  {"1000"},
