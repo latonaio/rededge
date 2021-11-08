@@ -2,7 +2,7 @@
 	"connection_key": "response",
 	"result": true,
 	"redis_key": "abcdefg",
-	"filepath": "/var/lib/aion/Data/rededge_mfuf_r/abcdef.json",
+	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
 	"document":  {
 		"document_no":  {},
 		"deliver_to":  {},
