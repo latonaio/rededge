@@ -1,0 +1,25 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
+	"BillOfMaterial":  {
+		"BillOfMaterial": {},
+    "Material": {},
+    "Plant": {},
+    "BillOfMaterialVariant": {},
+    "ValidityStartDate": {},
+    "ValidityEndDate": {},
+    "HeaderIsDeleted": {},
+		"BillOfMaterialItemNodeNumber": {
+        "BillOfMaterialItemNodeNumber": {},
+        "BillOfMaterialComponent": {},
+        "BillOfMaterialItemQuantity": {},
+        "ComponentScrapInPercent": {},
+        "ItemIsDeleted": {},
+		},
+	},
+  "api_schema": {},
+  "bill_of_material_code":  {},
+  "deleted":  {},
+}
