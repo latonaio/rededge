@@ -10,6 +10,7 @@
             "ValidFrom": {},
             "ValidTo": {},
 		    "AddressID": {
+			    "AddressID": {},
                 "ValidityStartDate": {},
                 "ValidityEndDate": {},
                 "Country": {},
