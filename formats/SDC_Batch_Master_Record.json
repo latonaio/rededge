@@ -4,7 +4,7 @@
   "redis_key": "abcdefg",
   "filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
   "batch":  {
-	  "Material":  {},
+      "Material":  {},
       "BatchIdentifyingPlant":  {},
       "Batch":  {},
       "Supplier":  {},
