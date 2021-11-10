@@ -19,7 +19,7 @@
         "StorageLocation": {},
         "Batch": {},
         "ProductionUnit": {},
-        "Status": {,
+        "Status": {
 		    "StatusCode": {},
 		    "IsUserStatus": {},
 		    "StatusShortName": {},
