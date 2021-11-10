@@ -4,7 +4,7 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
 	"WorkCenter":  {
-      "WorkCenterInternalID": {"10000188"},
+      "WorkCenterInternalID": {10000188},
       "WorkCenterTypeCode": {"A"},
       "WorkCenter": {"1000-001"},
       "WorkCenter_desc": {"Test Work Center"},
@@ -15,7 +15,7 @@
       "WorkCenterUsage": {"001"},
       "MatlCompIsMarkedForBackflush": {"X"},
       "WorkCenterLocation": {"1000"},
-      "CapacityInternalID": {"10000198"},
+      "CapacityInternalID": {10000198},
       "CapacityCategoryCode": {"002"},
       "ValidityStartDate": {20211109},
       "ValidityEndDate": {},
