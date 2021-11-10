@@ -21,10 +21,9 @@
       "ValidityEndDate": {},
       "CostCenter": {},
       "LastChangeDate": {},
-      "WorkCenterIsToBeDeleted": {},
-		},
+      "WorkCenterIsToBeDeleted": {}
 	},
   "api_schema": {},
   "work_center_code":  {},
-  "deleted":  {},
+  "deleted":  {}
 }
