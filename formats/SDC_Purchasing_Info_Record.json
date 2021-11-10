@@ -43,7 +43,22 @@
     "IsEvaluatedRcptSettlmtAllowed": {},
     "IsPurOrderAllwdForInbDeliv": {},
     "IsOrderAcknRqd": {},
-    "IsMarkedForDeletion_PO_Level": {}
+    "IsMarkedForDeletion_PO_Level": {},
+    "ConditionRecord": {
+        "ConditionRecord": {},
+        "ConditionValidityEndDate": {},
+        "ConditionValidityStartDate": {},
+        "ConditionSequentialNumber": {
+            "ConditionSequentialNumber": {},
+            "ConditionApplication": {},
+            "ConditionType": {},
+            "ConditionScaleQuantity": {},
+            "ConditionScaleQuantityUnit": {},
+            "ConditionScaleAmount": {},
+            "ConditionRateValue": {},
+            "ConditionQuantity": {}
+        }
+      }
   },
   "api_schema": {},
   "purchasing_info_record":  {},
