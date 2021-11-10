@@ -8,7 +8,7 @@
 		"deliver_to":  {"1000"},
 		"quantity":  {1020.75},
 		"picked_quantity":  {},
-		"price":  {76},
+		"price":  {76}
 	},
 	"production_order":  {
 		"document_no":  {},
@@ -31,7 +31,7 @@
 				     "actual_start_time":  {},
 			 	     "actual_validated_date":  {},
 				     "actual_validated_time":  {},
-			 },
+			 }
 		},
   "api_schema": {"sap.s4.beh.inbounddelivery.v1.InboundDelivery.Created.v1"},
   "material_code":  {"100372"},
@@ -41,5 +41,5 @@
   "document_no":  {"5000000162"},
   "planned_date":  {},
   "validated_date":  {20210928},
-  "deleted":  {},
+  "deleted":  {}
 }
