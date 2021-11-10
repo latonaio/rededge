@@ -23,7 +23,7 @@
 		    "StatusCode": {},
 		    "IsUserStatus": {},
 		    "StatusShortName": {},
-		    "StatusName": {},
+		    "StatusName": {}
 		 },
 　　　   "BillofMaterial": {
 			"BillOfMaterialItemNumber": {
@@ -45,8 +45,8 @@
 				"ReservationIsFinallyIssued": {},
 				"MatlCompIsMarkedForBackflush": {},
 				"StorageLocation": {},
-				"GoodsMovementType": {},
-			},
+				"GoodsMovementType": {}
+			}
 		},
 		"BillofOperations": {
 			"OrderInternalBillOfOperations": {
@@ -75,12 +75,12 @@
 		          	"OperationUnit": {},
 		          	"OpPlannedTotalQuantity": {},
 		          	"OpTotalConfirmedYieldQty": {},
-		          	"LastChangeDateTime": {},
-				},
-		  },
-	  },
+		          	"LastChangeDateTime": {}
+				}
+		  }
+	  }
   },
   "api_schema": {},
   "production_order":  {},
-  "deleted":  {},
+  "deleted":  {}
 }
