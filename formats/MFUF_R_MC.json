@@ -7,12 +7,12 @@
 		"material_code": {},
 		"stock":  {},
 		"quantity":  {},
-		"price":  {},
+		"price":  {}
 	},
   "api_schema": {},
   "document_no":  {},
   "document_type":  {},
   "planned_date":  {},
   "validated_date":  {},
-  "plant":  {},
+  "plant":  {}
 }
