@@ -23,7 +23,7 @@
                 "to_FaxNumber": {},
                 "to_MobilePhoneNumber": {},
                 "to_PhoneNumber": {},
-		        "to_URLAddress": {},
+		        "to_URLAddress": {}
 		     },
 		"Sales_Area": {
 			"Sales_Area": ["SalesOrganization", "DistributionChannel", "Division"],
@@ -31,19 +31,16 @@
                 "SalesOrganization": {},
 				"DistributionChannel": {},
 				"Division": {},
-				"BillingIsBlockedForCustomer": {},
 				"CompleteDeliveryIsDefined": {},
 				"Currency": {},
 				"CustomerAccountAssignmentGroup": {},
 				"CustomerPaymentTerms": {},
 				"CustomerPriceGroup": {},
 				"CustomerPricingProcedure": {},
-				"DeliveryIsBlockedForCustomer": {},
 				"DeliveryPriority": {},
 				"IncotermsClassification": {},
 				"InvoiceDate": {},
 				"OrderCombinationIsAllowed": {},
-				"OrderIsBlockedForCustomer": {},
 				"PartialDeliveryIsAllowed": {},
 				"PriceListType": {},
 				"SalesGroup": {},
@@ -53,7 +50,10 @@
 				"SalesDistrict": {},
 				"InvoiceListSchedule": {},
 				"ExchangeRateType": {},
-				"DeletionIndicator": {},
+				"OrderIsBlockedForCustomer": {},
+				"DeliveryIsBlockedForCustomer": {},
+				"BillingIsBlockedForCustomer": {},
+				"DeletionIndicator": {}
 				},
 		"Company": {
                 "Customer_desc": {},
@@ -64,10 +64,10 @@
 				"PaymentMethodsList": {},
 				"PaymentTerms": {},
 				"ReconciliationAccount": {},
-				"DeletionIndicator": {},
-		},
+				"DeletionIndicator": {}
+		}
   },
   "api_schema": {},
   "business_partner_code":  {},
-  "deleted":  {},
+  "deleted":  {}
 }
