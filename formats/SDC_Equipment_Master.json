@@ -56,7 +56,14 @@
     "EquipHasSubOrdinateEquipment": {},
     "CreationDate": {},
     "LastChangeDateTime": {},
-    "EquipmentIsMarkedForDeletion": {}
+    "EquipmentIsMarkedForDeletion": {},
+    "BusinessPartner": {
+        "BusinessPartner": ["PartnerFunction", "EquipmentPartnerObjectNmbr"],
+        "PartnerFunction": {},
+        "EquipmentPartnerObjectNmbr": {},
+        "Partner": {},
+        "CreationDate": {}
+    }
   },
   "api_schema": {},
   "equipment_code":  {},
