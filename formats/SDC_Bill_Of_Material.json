@@ -5,21 +5,21 @@
 	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
 	"BillOfMaterial":  {
 		"BillOfMaterial": {},
-    "Material": {},
-    "Plant": {},
-    "BillOfMaterialVariant": {},
-    "ValidityStartDate": {},
-    "ValidityEndDate": {},
-    "HeaderIsDeleted": {},
+        "Material": {},
+        "Plant": {},
+        "BillOfMaterialVariant": {},
+        "ValidityStartDate": {},
+        "ValidityEndDate": {},
+        "HeaderIsDeleted": {},
 		"BillOfMaterialItemNodeNumber": {
-        "BillOfMaterialItemNodeNumber": {},
-        "BillOfMaterialComponent": {},
-        "BillOfMaterialItemQuantity": {},
-        "ComponentScrapInPercent": {},
-        "ItemIsDeleted": {},
-		},
+            "BillOfMaterialItemNodeNumber": {},
+            "BillOfMaterialComponent": {},
+            "BillOfMaterialItemQuantity": {},
+            "ComponentScrapInPercent": {},
+            "ItemIsDeleted": {}
+		}
 	},
   "api_schema": {},
   "bill_of_material_code":  {},
-  "deleted":  {},
+  "deleted":  {}
 }
