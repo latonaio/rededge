@@ -32,7 +32,7 @@
 	        "BaseUnit": "M",
 	        "RequiredQuantity": 0.93,
 	        "MaterialCompOriginalQuantity": 0.93,
-	        "Reservation": "133",
+	        "Reservation": 133,
 			"ReservationItem": 1,
 			"QuantityIsFixed": "",
 			"ComponentScrapInPercent": 10,
