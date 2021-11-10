@@ -8,7 +8,7 @@
 		"deliver_to":  {},
 		"quantity":  {},
 		"picked_quantity":  {},
-		"price":  {},
+		"price":  {}
 	},
 	"production_order":  {
 		"document_no":  {},
@@ -34,8 +34,8 @@
 			 	 "actual_start_date":  {},
 				 "actual_start_time":  {},						 
 			 	 "actual_validated_date":  {},
-				 "actual_validated_time":  {},
-			  },
+				 "actual_validated_time":  {}
+			  }
 		},
   "api_schema": {},
   "material_code":  {},
@@ -45,5 +45,5 @@
   "document_no":  {},
   "planned_date":  {},
   "validated_date":  {},
-  "deleted":  {},
+  "deleted":  {}
 }
