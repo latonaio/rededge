@@ -1,0 +1,16 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"MaterialStock": {
+    "MaterialStock": ["Material", "Plant", "StorageLocation"],
+    "Material": {},
+    "Plant": {},
+    "StorageLocation": {},
+    "to_MaterialStock": {}
+  },
+  "api_schema": {},
+  "material_code":  {},
+  "deleted":  {}
+}
