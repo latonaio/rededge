@@ -1,0 +1,33 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"GLAccount": {
+    "ChartOfAccounts": {},
+    "GLAccount": {},
+    "GLAccountType": {},
+    "GLAccountGroup": {},
+    "IsBalanceSheetAccount": {},
+    "IsProfitLossAccount": {},
+    "CorporateGroupAccount": {},
+    "PartnerCompany": {},
+    "ProfitLossAccountType": {},
+    "FunctionalArea": {},
+    "CreationDate": {},
+    "LastChangeDateTime": {},
+    "AccountIsMarkedForDeletion": {},
+    "AccountIsBlockedForCreation": {},
+    "AccountIsBlockedForPosting": {},
+    "AccountIsBlockedForPlanning": {},
+    "Language": {
+        "Language": {},
+        "GLAccountName": {},
+        "GLAccountLongName": {},
+        "LastChangeDateTime": {}
+    }
+  },
+  "api_schema": {},
+  "gl_account_code":  {},
+  "deleted":  {}
+}
