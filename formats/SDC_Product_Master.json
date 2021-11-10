@@ -53,12 +53,12 @@
 		        "FixedLotSizeQuantity": {},
 		        "PlannedDeliveryDurationInDays": {},
 		        "StorageLocation": {},
-		        "IsMarkedForDeletion": {},
+		        "IsMarkedForDeletion": {}
 			},
 			"Procurement": {
 			    "PurchaseOrderQuantityUnit": {},
 			    "IsAutoPurOrdCreationAllowed": {},
-			    "IsSourceListRequired": {},
+			    "IsSourceListRequired": {}
 			},
 			"Sales_Plant": {
 				"SalesStatus": {},
@@ -66,7 +66,7 @@
 		        "TaxClassification": {},
 		        "TransportationGroup": {},
 		        "LoadingGroup": {},
-		        "AvailabilityCheckType": {},
+		        "AvailabilityCheckType": {}
 			},
 			"Work_Scheduling": {
 				"ProductionInvtryManagedLoc": {},
@@ -75,8 +75,8 @@
 		        "ProductProductionQuantityUnit": {},
 		        "ProdnOrderIsBatchRequired": {},
 		        "MatlCompIsMarkedForBackflush": {},
-		        "ProductionSchedulingProfile": {},
-		    },
+		        "ProductionSchedulingProfile": {}
+		    }
 		},
 		"Sales_Organization": {
 			"Sales_Organization_DistChannel": ["ProductSalesOrg", "ProductDistributionChnl"],
@@ -88,7 +88,7 @@
 				"ItemCategoryGroup": {},
 				"SalesMeasureUnit": {},
 				"ProductHierarchy": {},
-				"IsMarkedForDeletion": {},
+				"IsMarkedForDeletion": {}
 		},
 		"ValuationArea": {
             "ValuationArea": {},
@@ -98,10 +98,10 @@
 			"MovingAveragePrice": {},
 			"PriceLastChangeDate": {},
 			"PlannedPrice": {},
-			"IsMarkedForDeletion": {},
-		},
+			"IsMarkedForDeletion": {}
+		}
+  },
   "api_schema": {},
   "material_code":  {},
-  "deleted":  {},
- },
+  "deleted":  {}
 }

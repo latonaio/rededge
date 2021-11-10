@@ -23,7 +23,7 @@
             "to_FaxNumber": {},
             "to_MobilePhoneNumber": {},
             "to_PhoneNumber": {},
-		    "to_URLAddress": {},
+		    "to_URLAddress": {}
 		     },
 		"Purchasing_Organization": {
 	        "Supplier_desc": {},
@@ -38,7 +38,7 @@
 	        "SupplierPhoneNumber": {},
 	        "SupplierRespSalesPersonName": {},
 		    "PurchasingIsBlockedForSupplier": {},
-	        "DeletionIndicator": {},
+	        "DeletionIndicator": {}
 		},
 		"Company": {
             "Supplier_desc": {},
@@ -50,10 +50,10 @@
 		    "HouseBank": {},
 		    "ReconciliationAccount": {},
 		    "SupplierIsBlockedForPosting": {},
-			"DeletionIndicator": {},
-		},
+			"DeletionIndicator": {}
+		}
   },
   "api_schema": {},
   "business_partner_code":  {},
-  "deleted":  {},
+  "deleted":  {}
 }
