@@ -6,8 +6,8 @@
 	"SalesPricing":  {
       "ConditionRecord": {},
       "ConditionSequentialNumber": {
-			    "ConditionSequentialNumber": {},
-					"ConditionTable": {},
+          "ConditionSequentialNumber": {},
+          "ConditionTable": {},
           "ConditionApplication": {},
           "ConditionType": {},
           "Customer": {},
@@ -40,7 +40,7 @@
           "PricingScaleLine": {},
           "ConditionReleaseStatus": {},
           "ConditionIsDeleted": {}
-		 　}
+		}
 	 },
   "api_schema": {},
   "sales_pricing_condition_record":  {},
