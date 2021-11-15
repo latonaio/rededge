@@ -77,8 +77,31 @@
 	        "AddressPhoneNumber": {},
 	        "AddressRegion": {},
 	        "AddressCountry": {},
-	        "PurchasingDocumentDeletionCode": {}
-		}
+	        "PurchasingDocumentDeletionCode": {},
+            "AccountAssignmentNumber":{
+                "AccountAssignmentNumber": {},
+                "GLAccount": {},
+                "BusinessArea": {},
+                "CostCenter": {},
+                "SalesOrder": {},
+                "SalesOrderItem": {},
+                "SalesOrderScheduleLine": {},
+                "MasterFixedAsset": {},
+                "FixedAsset": {},
+                "GoodsRecipientName": {},
+                "UnloadingPointName": {},
+                "ControllingArea": {},
+                "CostObject": {},
+                "OrderID": {},
+                "ProfitCenter": {},
+                "WBSElement": {},
+                "ProjectNetwork": {},
+                "FunctionalArea": {},
+                "TaxCode": {},
+                "CostCtrActivityType": {},
+                "IsDeleted": {}
+		     }
+	     }
 	},
   "api_schema": {},
   "purchase_order":  {},
