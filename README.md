@@ -8,6 +8,12 @@
 
 ![Rededge_Architecture](Documents/rededge_architecture.png)
 
+## Latona における Rededge 関連リソースの SAP 領域・機能ごと の 整備状況
+下の図において、チェックマークが付いている Rededge 関連 の リソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。
+
+![Rededgeリソース整備状況](Documents/rededge_sandbox.png)
+
+
 ## Rededgeの機能
 
  * イベントのデータ連携       
