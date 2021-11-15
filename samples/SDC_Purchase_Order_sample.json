@@ -33,7 +33,7 @@
         "AddressPhoneNumber": "",
         "AddressRegion": "",
         "AddressCountry": "",
-		"PurchaseOrderItem":{
+        "PurchaseOrderItem":{
 	        "PurchaseOrderItem": 10,
 	        "PurchaseOrderItemText": "Test Material",
 	        "Plant": "ZZ00",
@@ -47,6 +47,7 @@
 	        "DocumentCurrency": "JPY",
 	        "NetPriceAmount": 0.00,
 	        "NetPriceQuantity": 10,
+            "ScheduleLineDeliveryDate": "20211117",
 	        "TaxCode": "",
 	        "OverdelivTolrtdLmtRatioInPct": 0.0,
 	        "UnlimitedOverdeliveryIsAllowed": "",
@@ -73,7 +74,7 @@
 	        "DeliveryAddressName": "Test Plant ZZ00",
 	        "DeliveryAddressPostalCode": "150-0001",
 	        "DeliveryAddressStreetName": "東京都渋谷区",
-					"DeliveryAddressCityName": "神宮前6-12-18 WeWork Iceberg 3F",
+            "DeliveryAddressCityName": "神宮前6-12-18 WeWork Iceberg 3F",
 	        "DeliveryAddressRegion": "13",
 	        "DeliveryAddressCountry": "JP",
 	        "PurchasingDocumentDeletionCode": "",
