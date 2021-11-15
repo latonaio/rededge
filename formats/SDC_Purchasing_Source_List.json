@@ -24,6 +24,8 @@
     "SourceOfSupplyIsFixed": {}
   },
   "api_schema": {},
-  "purchasing_source_list":  {},
+  "material_code": {},
+  "plant": {},
+  "source_list_record": {},
   "deleted":  {}
 }
