@@ -1,0 +1,16 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"MaterialStock": {
+    "MaterialStock": ["100141", "1000", "1000"],
+    "Material": "100141",
+    "Plant": "1000",
+    "StorageLocation": "1000",
+    "to_MaterialStock": 7.000
+  },
+  "api_schema": "/A_MaterialStock('{Material}')/to_MatlStkInAcctMod",
+  "material_code":  "100141",
+  "deleted":  ""
+}

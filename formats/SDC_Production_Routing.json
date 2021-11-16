@@ -1,0 +1,42 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"ProductionRouting":  {
+    "ProductionRoutingGroup" : {},
+    "ProductionRouting" : {},
+    "Plant" : {},
+    "Product" : {},
+    "ProductionRoutingGroup_desc": {},
+    "BillOfOperationsStatus": {},
+    "MinimumLotSizeQuantity": {},
+    "MaximumLotSizeQuantity": {},
+    "ValidityStartDate": {},
+    "ValidityEndDate": {},
+    "IsMarkedForDeletion": {},
+    "ProductionRoutingOpIntID_BOM": {},
+    "ProdnRtgOpBOMItemInternalID": {},
+    "BillOfMaterial": {},
+    "BillOfMaterialItemNodeNumber": {},
+    "MatlCompIsMarkedForBackflush": {},
+    "ProductionRoutingOpIntID": {
+        "ProductionRoutingOpIntID": {},
+        "WorkCenterInternalID": {},
+        "WorkCenterInternalID_desc": {},
+        "Operation": {},
+        "Operation_desc": {},
+        "OperationText": {},
+        "PurchasingInfoRecord": {},
+        "MaterialGroup": {},
+        "PurchasingGroup": {},
+        "Supplier": {},
+        "PlannedDeliveryDuration": {},
+        "NumberOfOperationPriceUnits": {},
+        "OpExternalProcessingPrice": {}
+    }
+  },
+  "api_schema": {},
+  "production_order":  {},
+  "deleted":  {}
+}

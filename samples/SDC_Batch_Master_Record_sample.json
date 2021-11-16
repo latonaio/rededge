@@ -1,0 +1,26 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"batch":  {
+      "Material":  "100141",
+      "BatchIdentifyingPlant":  "1000",
+      "Batch":  "70000001",
+      "Supplier":  "",
+      "BatchBySupplier":  "",
+      "CountryOfOrigin":  "",
+      "RegionOfOrigin":  "",
+      "MatlBatchAvailabilityDate":  "20211109",
+      "ShelfLifeExpirationDate":  "",
+      "ManufactureDate":  "20211109",
+      "CreationDateTime":  "20211109",
+      "LastChangeDateTime":  "20211109/10:11:55",
+      "BatchIsMarkedForDeletion":  ""
+		},
+  "api_schema": "sap.s4.beh.batch.v1.Batch.Created.v1",
+  "material_code":  "100141",
+	"plant":  "1000",
+	"batch_code":  "70000001",
+  "deleted":  ""
+}
