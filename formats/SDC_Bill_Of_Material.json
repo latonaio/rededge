@@ -4,9 +4,9 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"BillOfMaterial":  {
-		"BillOfMaterial": {},
         "Material": {},
         "Plant": {},
+        "BillOfMaterial": {},
         "BillOfMaterialVariant": {},
         "ValidityStartDate": {},
         "ValidityEndDate": {},
@@ -20,6 +20,7 @@
 		}
 	},
   "api_schema": {},
-  "bill_of_material_code":  {},
+  "material_code":  {},
+  "plant": {},
   "deleted":  {}
 }
