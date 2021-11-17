@@ -37,6 +37,7 @@
     }
   },
   "api_schema": {},
-  "production_order":  {},
+  "material_code":  {},
+  "plant":  {},
   "deleted":  {}
 }
