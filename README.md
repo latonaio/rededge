@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91356865/142149661-3e04d356-0256-44ab-b11b-22ced03904ee.png" />
+</p>
+
+***
+
 # rededge   
 
 * Rededgeは、AION-Core / Kubernetes 上で動作する、エッジコンピューティングのための、Redisデータキャッシュアーキテクチャおよび関連リソースです。  
