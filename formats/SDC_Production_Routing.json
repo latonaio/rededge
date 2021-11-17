@@ -4,10 +4,10 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"ProductionRouting":  {
+    "Product" : {},
+    "Plant" : {},
     "ProductionRoutingGroup" : {},
     "ProductionRouting" : {},
-    "Plant" : {},
-    "Product" : {},
     "ProductionRoutingGroup_desc": {},
     "BillOfOperationsStatus": {},
     "MinimumLotSizeQuantity": {},
