@@ -34,12 +34,29 @@ Redegeは、AIONによるマイクロサービスアーキテクチャ・稼働�
   
 ## formats  
 
-Rededgeの下記JSONサンプルフォーマットを、formatsフォルダに格納しています。
+Rededge の 下記 JSON フォーマット が、formats フォルダに格納されています。
 
  * MFUF_R_MC.json（Most Frequently Update Fields_Reads_Material Centered) 
  * EC_MC.json（Event Converter_Material Centered) 
  * SDC.json（Static Data Controller)
+ 
+## samples
+
+Rededge の 下記 JSON サンプルファイル（データの具体例が入ったもの）が、データの種類毎に、samples フォルダに格納されています。  
+
+* MFUF_R_MC.sample（Most Frequently Update Fields_Reads_Material Centered のサンプル)   
+* EC_MC_sample（Event Converter_Material Centered のサンプル)  
+* SDC_sample（Static Data Controller のサンプル）  
+
+## 動的なデータアーキテクチャだけではない SDC の用途
+
+Rededge アーキテクチャは、動的なデータ構造だけでなく、静的なデータ構造も提供します。  
+SDC(Static Data Controller)は、NoSQLだけでなく伝統的なSQLデータベース環境にも対応した、静的なデータのフォーマットを含みます。  
+SDCは、次のような静的な、従来型の用途に利用されることができます。  
+
+* マスタデータ維持管理用SQLのためのデータフォーマット（例：品目マスタ、ビジネスパートナ-得意先/仕入先、販売単価、部品表、作業手順、購買情報、設備マスタ）  
+* トランザクションデータ維持管理用SQLのためのデータフォーマット（例：品目在庫、MRPデータ、製造指図、購買依頼、入出庫予定、計画独立所要量）  
+* 帳票出力用データ維持管理用SQLのためのデータフォーマット（例：出荷指示書、納品書、請求書、内示通知書、製造指示書、発注書）  
 
 ## Rededgeを用いたエンドポイントUIの一例(サイネージ版)   
 ![Dualscreen_ui](Documents/signage_dual_screen.PNG)   
-
