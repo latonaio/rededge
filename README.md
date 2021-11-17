@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91356865/142156559-fd20d286-80ed-45e7-a915-661d72ad05e0.png" width="300">
 </p>
+<p align="center">
+  A New Data-Cache Architecture for Edge Computing
+</p>
 
 ***
 
