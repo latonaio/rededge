@@ -1,0 +1,33 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"GLAccount": {
+    "ChartOfAccounts": "1000",
+    "GLAccount": "826200",
+    "GLAccountType": "P",
+    "GLAccountGroup": "ERG.",
+    "IsBalanceSheetAccount": "",
+    "IsProfitLossAccount": "X",
+    "CorporateGroupAccount": "",
+    "PartnerCompany": "",
+    "ProfitLossAccountType": "1",
+    "FunctionalArea": "",
+    "CreationDate": "20210916",
+    "LastChangeDateTime": "20210916/14:20:43",
+    "AccountIsMarkedForDeletion": "",
+    "AccountIsBlockedForCreation": "",
+    "AccountIsBlockedForPosting": "",
+    "AccountIsBlockedForPlanning": "",
+    "Language": {
+        "Language": "JA",
+        "GLAccountName": "旅費交通費",
+        "GLAccountLongName": "旅費交通費",
+        "LastChangeDateTime": "20210916/14:20:43"
+    }
+  },
+  "api_schema": "sap.s4.beh.generalledgeraccount.v1.GeneralLedgerAccount.Created.v1",
+  "gl_account_code":  "826200",
+  "deleted":  ""
+}
