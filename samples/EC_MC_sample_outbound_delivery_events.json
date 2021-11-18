@@ -33,7 +33,7 @@
 				 "actual_validated_time":  null
 			 }
 		},
-  "api_schema": "sap.s4.beh.inbounddelivery.v1.InboundDelivery.Created.v1",
+  "api_schema": "sap.s4.beh.outbounddelivery.v1.OutboundDelivery.Created.v1",
   "material_code":  "100141",
   "plant/supplier":  "1000",
   "stock":  7,
