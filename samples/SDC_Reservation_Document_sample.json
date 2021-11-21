@@ -42,7 +42,7 @@
 			"IssuingOrReceivingPlant": "",
 			"IssuingOrReceivingStorageLoc": "",
 			"PurchasingDocument": "",
-			"PurchasingDocumentItem": "",
+			"PurchasingDocumentItem": null,
 			"Supplier": "",
 			"ResvnItmRequiredQtyInBaseUnit": "PC",
 			"ReservationItemIsFinallyIssued": "X",
