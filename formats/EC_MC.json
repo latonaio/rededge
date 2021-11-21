@@ -8,7 +8,8 @@
 		"deliver_to": {},
 		"quantity": {},
 		"picked_quantity": {},
-		"price": {}
+		"price": {},
+		"batch": {}
 	},
 	"production_order": {
 		"document_no": {},
@@ -20,6 +21,7 @@
 		"planned_validated_date": {},
 		"actual_start_date": {},
 		"actual_validated_date": {},
+		"batch": {},
 		"work": {
 			"work_no": {},
 			"quantity": {},

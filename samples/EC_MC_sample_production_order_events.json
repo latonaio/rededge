@@ -8,7 +8,8 @@
 		"deliver_to": "",
 		"quantity": null,
 		"picked_quantity": null,
-		"price": null
+		"price": null,
+		"batch": ""
 	},
 	"production_order": {
 		"document_no": "1000040",
@@ -20,6 +21,7 @@
 		"planned_validated_date": "20211010",
 		"actual_start_date": "20211011",
 		"actual_validated_date": "20211011",
+		"batch" : "",
 		"work": {
 			"work_no": "0020",
 			"quantity": 30,
