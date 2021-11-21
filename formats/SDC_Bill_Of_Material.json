@@ -3,24 +3,24 @@
 	"result": true,
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
-	"BillOfMaterial":  {
-        "Material": {},
-        "Plant": {},
-        "BillOfMaterial": {},
-        "BillOfMaterialVariant": {},
-        "ValidityStartDate": {},
-        "ValidityEndDate": {},
-        "HeaderIsDeleted": {},
+	"BillOfMaterial": {
+		"Material": {},
+		"Plant": {},
+		"BillOfMaterial": {},
+		"BillOfMaterialVariant": {},
+		"ValidityStartDate": {},
+		"ValidityEndDate": {},
+		"HeaderIsDeleted": {},
 		"BillOfMaterialItemNodeNumber": {
-            "BillOfMaterialItemNodeNumber": {},
-            "BillOfMaterialComponent": {},
-            "BillOfMaterialItemQuantity": {},
-            "ComponentScrapInPercent": {},
-            "ItemIsDeleted": {}
+			"BillOfMaterialItemNodeNumber": {},
+			"BillOfMaterialComponent": {},
+			"BillOfMaterialItemQuantity": {},
+			"ComponentScrapInPercent": {},
+			"ItemIsDeleted": {}
 		}
 	},
-  "api_schema": {},
-  "material_code":  {},
-  "plant": {},
-  "deleted":  {}
+	"api_schema": {},
+	"material_code": {},
+	"plant": {},
+	"deleted": {}
 }

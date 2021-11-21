@@ -1,0 +1,40 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"ProductionRouting": {
+		"Product": "100141",
+		"Plant": "1000",
+		"ProductionRoutingGroup": "50000001",
+		"ProductionRouting": "1",
+		"ProductionRoutingGroup_desc": "",
+		"BillOfOperationsStatus": "",
+		"MinimumLotSizeQuantity": 0,
+		"MaximumLotSizeQuantity": 99999999,
+		"ValidityStartDate": "20211001",
+		"ValidityEndDate": "99991231",
+		"IsMarkedForDeletion": "",
+		"ProdnRtgOpBOMItemInternalID": "",
+		"ProductionRoutingOpIntID": {
+			"ProductionRoutingOpIntID": 1,
+			"BillOfMaterial": "00000005",
+			"BillOfMaterialItemNodeNumber": 1,
+			"MatlCompIsMarkedForBackflush": "X",
+			"WorkCenterInternalID": 10000194,
+			"Operation": "0010",
+			"OperationText": "Test Operation 0010",
+			"PurchasingInfoRecord": "5500000000",
+			"MaterialGroup": "01",
+			"PurchasingGroup": "100",
+			"Supplier": "1000184",
+			"PlannedDeliveryDuration": 5,
+			"NumberOfOperationPriceUnits": 1,
+			"OpExternalProcessingPrice": 1260
+		}
+	},
+	"api_schema": "/OpEquipmentPRTAssgmt",
+	"material_code": "100141",
+	"plant": "1000",
+	"deleted": ""
+}

@@ -5,14 +5,14 @@
 	"filepath": "/var/lib/aion/Data/rededge_mfuf_r_mc/abcdef.json",
 	"material": {
 		"material_code": {},
-		"stock":  {},
-		"quantity":  {},
-		"price":  {}
+		"stock": {},
+		"quantity": {},
+		"price": {}
 	},
-  "api_schema": {},
-  "document_no":  {},
-  "document_type":  {},
-  "planned_date":  {},
-  "validated_date":  {},
-  "plant":  {}
+	"api_schema": {},
+	"document_no": {},
+	"document_type": {},
+	"planned_date": {},
+	"validated_date": {},
+	"plant": {}
 }
