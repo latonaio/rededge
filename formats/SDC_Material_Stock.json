@@ -4,10 +4,11 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"MaterialStock": {
-		"MaterialStock": ["Material", "Plant", "StorageLocation"],
+		"MaterialStock": ["Material", "Plant", "StorageLocation", "Batch"],
 		"Material": {},
 		"Plant": {},
 		"StorageLocation": {},
+		"Batch": {},
 		"to_MaterialStock": {}
 	},
 	"api_schema": {},
