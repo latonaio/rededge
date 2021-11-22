@@ -33,7 +33,7 @@
 	        "Supplier_desc": "ラトナ株式会社",
 	        "PurchasingOrganization": "1000",
 	        "IncotermsClassification": "",
-	        "InvoiceIsGoodsReceiptBased": "",
+	        "InvoiceIsGoodsReceiptBased": "X",
 	        "PaymentTerms": "Z001",
 	        "PurOrdAutoGenerationIsAllowed": "X",
 	        "PurchaseOrderCurrency": "JPY",
