@@ -67,5 +67,18 @@ SDCは、次のような静的な、従来型の用途に利用されること�
 * トランザクションデータ維持管理用SQLのためのデータフォーマット（例：品目在庫、MRPデータ、製造指図、購買依頼、入出庫予定、計画独立所要量）  
 * 帳票出力用データ維持管理用SQLのためのデータフォーマット（例：出荷指示書、納品書、請求書、内示通知書、製造指示書、発注書）  
 
+## SAP-SANDBOXとの依存関係
+
+以下の図は、rededge と [sap-sandbox](https://github.com/latonaio/sap-sandbox) との依存関係を示した図です。
+REDEDGE は、SAP-SANDBOX との統合に関連して、以下の機能を提供します。
+
+* Event Driven Dynamic Data Conversions（イベントドリブンの動的データ変換）  
+* Hyper-Real-Time Data Interchange among Microservicies（マイクロサービス間の超リアルタイムデータ交換）
+* Slimmed and Styled Data Formats against Traditional SQL Data Models（従来のSQLデータモデルに比べてスリム化されスタイルされたデータ形式）
+* "Kubernetes-Fluent"（Kubernetes を使いこなす環境）
+* 100% Optimizable to Edge Computing Stacks：On-the-Cloud will be OK as well （エッジコンピューティングスタックに100％最適化可能：そしてクラウドにおいても適用可能）
+
+![rededge_sap](Documents/rededge_sap.drawio.png)
+
 ## Rededgeを用いたエンドポイントUIの一例(サイネージ版)   
 ![Dualscreen_ui](Documents/signage_dual_screen.PNG)   
