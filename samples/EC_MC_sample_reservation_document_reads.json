@@ -1,0 +1,51 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
+	"document": {
+		"document_no": 23,
+		"deliver_to": "",
+		"quantity": 30,
+		"picked_quantity": 30,
+		"price": 9980,
+		"batch": ""
+	},
+	"production_order": {
+		"document_no": "",
+		"status": "",
+		"deliver_to": "",
+		"quantity": null,
+		"completed_quantity": null,
+		"planned_start_date": "",
+		"planned_validated_date": "",
+		"actual_start_date": "",
+		"actual_validated_date": "",
+		"batch": "",
+		"work": {
+			"work_no": "",
+			"quantity": null,
+			"completed_quantity": null,
+			"errored_quantity": null,
+			"component": "",
+			"planned_component_quantity": null,
+			"planned_start_date": null,
+			"planned_start_time": null,
+			"planned_validated_date": null,
+			"planned_validated_time": null,
+			"actual_start_date": null,
+			"actual_start_time": null,
+			"actual_validated_date": null,
+			"actual_validated_time": null
+		}
+	},
+	"api_schema": "A_ReservationDocumentHeader",
+	"material_code": "100049",
+	"plant/supplier": "1000",
+	"stock": 7,
+	"document_type": "261",
+	"document_no": 23,
+	"planned_date": "20211130",
+	"validated_date": "",
+	"deleted": ""
+}
