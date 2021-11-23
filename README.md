@@ -39,7 +39,7 @@
    
 ## 依存関係
 
-Redegeは、AIONによるマイクロサービスアーキテクチャ・稼働環境と、AIONとともに動作するエッジKubernetesのコンテナオーケストレーション技術とにより、安定的に動作することができます。   
+Redegeは、AIONによるマイクロサービスアーキテクチャ・稼働環境と、AIONとともに動作するエッジKubernetes、もしくは クラウド上の Kubernetes のコンテナオーケストレーション技術とにより、安定的に動作することができます。   
   
 ## formats  
 
@@ -69,7 +69,7 @@ SDCは、次のような静的な、従来型の用途に利用されること�
 
 ## SAP-SANDBOXとの依存関係
 
-以下の図は、rededge と [sap-sandbox](https://github.com/latonaio/sap-sandbox) との依存関係を示した図です。
+以下の図は、rededge と [sap-sandbox](https://github.com/latonaio/sap-sandbox) との依存関係を示した図です。（rededge は マイクロサービス であり、sap-sandbox と独立して動作します。sap-sandbox と組み合わせないと機能しないということではありません）  
 REDEDGE は、SAP-SANDBOX との統合に関連して、以下の機能を提供します。
 
 * Event Driven Dynamic Data Conversions（イベントドリブンの動的データ変換）  
@@ -78,7 +78,7 @@ REDEDGE は、SAP-SANDBOX との統合に関連して、以下の機能を提供
 * "Kubernetes-Fluent"（Kubernetes を使いこなす環境）
 * 100% Optimizable to Edge Computing Stacks：On-the-Cloud will be OK as well （エッジコンピューティングスタックに100％最適化可能：そしてクラウドにおいても適用可能）
 
-![rededge_sap](Documents/rededge_sap.drawio.png)
+![rededge_sap](Documents/rededge_sap.png)
 
 ## Rededgeを用いたエンドポイントUIの一例(サイネージ版)   
 ![Dualscreen_ui](Documents/signage_dual_screen.PNG)   
