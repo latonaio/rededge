@@ -19,8 +19,6 @@
 		"CapacityCategoryCode": {},
 		"ValidityStartDate": {},
 		"ValidityEndDate": {},
-		"CostCenter": {},
-		"LastChangeDate": {},
 		"WorkCenterIsToBeDeleted": {}
 	},
 	"api_schema": {},
