@@ -74,7 +74,7 @@
 			"DebitCreditCode": "S",
 			"InternalOrder": "",
 			"ProjectNetwork": "",
-			"ProfitabilitySegment": ""
+			"ProfitabilitySegment": null
 		}
 	},
 	"api_schema": "sap.s4.beh.supplierinvoice.v1.SupplierInvoice.Created.v1",
