@@ -19,8 +19,6 @@
 		"CapacityCategoryCode": "002",
 		"ValidityStartDate": "20211109",
 		"ValidityEndDate": "",
-		"CostCenter": "1000",
-		"LastChangeDate": "20211109",
 		"WorkCenterIsToBeDeleted": ""
 	},
 	"api_schema": "sap.s4.beh.workcenter.v1.WorkCenter.Created.v1",
