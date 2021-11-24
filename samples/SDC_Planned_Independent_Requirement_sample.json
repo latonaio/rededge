@@ -4,14 +4,15 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"PlannedIndependentRequirement": {
-		"PlannedIndependentRequirement": ["Product", "Plant", "PlndIndepRqmtType", "PlndIndepRqmtVersion", "RequirementPlan"],
+		"PlannedIndependentRequirement": ["Product", "Plant", "MRPArea", "PlndIndepRqmtType", "PlndIndepRqmtVersion", "RequirementPlan", "RequirementSegment"],
 		"Product": "100141",
 		"Plant": "1000",
+		"MRPArea": "1000",
 		"PlndIndepRqmtType": "LSF",
 		"PlndIndepRqmtVersion": "",
 		"RequirementPlan": "",
+        "RequirementSegment": "",
 		"PlndIndepRqmtInternalID": 121,
-		"MRPArea": "1000",
 		"UnitOfMeasure": "PC",
 		"PlndIndepRqmtPeriod": "",
 		"PlndIndepRqmtPeriodStartDate": "20211007",
@@ -21,8 +22,5 @@
 	"api_schema": "/PlannedIndepRqmt(Product='{Product}',Plant='{Plant}',MRPArea='{MRPArea}',PlndIndepRqmtType='{PlndIndepRqmtType}',PlndIndepRqmtVersion='{PlndIndepRqmtVersion}',RequirementPlan='{RequirementPlan}',RequirementSegment='{RequirementSegment}')/to_PlndIndepRqmtItem",
 	"material_code": "100141",
 	"plant": "1000",
-	"planned_independent_requirement_type": "LSF",
-	"planned_independent_requirement_version": "",
-	"planned_independent_requirement_plan": "",
 	"deleted": ""
 }

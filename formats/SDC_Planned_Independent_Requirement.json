@@ -4,14 +4,15 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"PlannedIndependentRequirement": {
-		"PlannedIndependentRequirement": ["Product", "Plant", "PlndIndepRqmtType", "PlndIndepRqmtVersion", "RequirementPlan"],
+		"PlannedIndependentRequirement": ["Product", "Plant", "MRPArea", "PlndIndepRqmtType", "PlndIndepRqmtVersion", "RequirementPlan", "RequirementSegment"],
 		"Product": {},
 		"Plant": {},
+		"MRPArea": {},
 		"PlndIndepRqmtType": {},
 		"PlndIndepRqmtVersion": {},
 		"RequirementPlan": {},
+        "RequirementSegment": {},
 		"PlndIndepRqmtInternalID": {},
-		"MRPArea": {},
 		"UnitOfMeasure": {},
 		"PlndIndepRqmtPeriod": {},
 		"PlndIndepRqmtPeriodStartDate": {},
@@ -21,8 +22,5 @@
 	"api_schema": {},
 	"material_code": {},
 	"plant": {},
-	"planned_independent_requirement_type": {},
-	"planned_independent_requirement_version": {},
-	"planned_independent_requirement_plan": {},
 	"deleted": {}
 }
