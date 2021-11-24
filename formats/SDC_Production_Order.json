@@ -27,7 +27,7 @@
 		},
 		"BillofMaterial": {
 			"BillOfMaterialItemNumber": {},
-			"Material": {},
+			"Component": {},
 			"Plant": {},
 			"BaseUnit": {},
 			"RequiredQuantity": {},

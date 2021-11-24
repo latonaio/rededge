@@ -27,7 +27,7 @@
 		},
 		"BillofMaterial": {
 			"BillOfMaterialItemNumber": "0010",
-			"Material": "25",
+			"Component": "25",
 			"Plant": "1000",
 			"BaseUnit": "M",
 			"RequiredQuantity": 0.93,
