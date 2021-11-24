@@ -1,0 +1,51 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
+	"document": {
+		"document_no": 121,
+		"deliver_to": "",
+		"quantity": 300,
+		"picked_quantity": "",
+		"price": "",
+		"batch": ""
+	},
+	"production_order": {
+		"document_no": {},
+		"status": {},
+		"deliver_to": {},
+		"quantity": {},
+		"completed_quantity": {},
+		"planned_start_date": {},
+		"planned_validated_date": {},
+		"actual_start_date": {},
+		"actual_validated_date": {},
+		"batch": {},
+		"work": {
+			"work_no": {},
+			"quantity": {},
+			"completed_quantity": {},
+			"errored_quantity": {},
+			"component": {},
+			"planned_component_quantity": {},
+			"planned_start_date": {},
+			"planned_start_time": {},
+			"planned_validated_date": {},
+			"planned_validated_time": {},
+			"actual_start_date": {},
+			"actual_start_time": {},
+			"actual_validated_date": {},
+			"actual_validated_time": {}
+		}
+	},
+	"api_schema": "/PlannedIndepRqmt",
+	"material_code": "100141",
+	"plant/supplier": "1000",
+	"stock": 7,
+	"document_type": "LSF",
+	"document_no": 121,
+	"planned_date": "20211007",
+	"validated_date": "",
+	"deleted": ""
+}
