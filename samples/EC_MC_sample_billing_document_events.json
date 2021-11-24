@@ -42,7 +42,7 @@
 	"api_schema": "sap.s4.beh.billingdocument.v1.BillingDocument.Created.v1",
 	"material_code": "100141",
 	"plant/supplier": "",
-	"stock": null,
+	"stock": 7,
 	"document_type": "F2",
 	"document_no": "90000024",
 	"planned_date": "",
