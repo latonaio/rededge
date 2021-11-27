@@ -8,18 +8,18 @@
 		"GLAccount": "826200",
 		"GLAccountType": "P",
 		"GLAccountGroup": "ERG.",
-		"IsBalanceSheetAccount": "",
-		"IsProfitLossAccount": "X",
+		"IsBalanceSheetAccount": false,
+		"IsProfitLossAccount": true,
 		"CorporateGroupAccount": "",
 		"PartnerCompany": "",
 		"ProfitLossAccountType": "1",
 		"FunctionalArea": "",
 		"CreationDate": "20210916",
 		"LastChangeDateTime": "20210916/14:20:43",
-		"AccountIsMarkedForDeletion": "",
-		"AccountIsBlockedForCreation": "",
-		"AccountIsBlockedForPosting": "",
-		"AccountIsBlockedForPlanning": "",
+		"AccountIsMarkedForDeletion": false,
+		"AccountIsBlockedForCreation": false,
+		"AccountIsBlockedForPosting": false,
+		"AccountIsBlockedForPlanning": false,
 		"Language": {
 			"Language": "JA",
 			"GLAccountName": "旅費交通費",
@@ -29,5 +29,5 @@
 	},
 	"api_schema": "sap.s4.beh.generalledgeraccount.v1.GeneralLedgerAccount.Created.v1",
 	"gl_account_code": "826200",
-	"deleted": ""
+	"deleted": false
 }

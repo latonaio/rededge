@@ -19,17 +19,17 @@
 		"FunctionalArea": "",
 		"CostCenterStandardHierArea": "1000",
 		"CostCenterCategory": "V",
-		"IsBlkdForPrimaryCostsPosting": "",
-		"IsBlkdForSecondaryCostsPosting": "",
-		"IsBlockedForRevenuePosting": "X",
-		"IsBlockedForCommitmentPosting": "",
-		"IsBlockedForPlanPrimaryCosts": "",
-		"IsBlockedForPlanSecondaryCosts": "",
-		"IsBlockedForPlanRevenues": "X",
-		"ConsumptionQtyIsRecorded": "",
+		"IsBlkdForPrimaryCostsPosting": false,
+		"IsBlkdForSecondaryCostsPosting": false,
+		"IsBlockedForRevenuePosting": false,
+		"IsBlockedForCommitmentPosting": false,
+		"IsBlockedForPlanPrimaryCosts": false,
+		"IsBlockedForPlanSecondaryCosts": false,
+		"IsBlockedForPlanRevenues": true,
+		"ConsumptionQtyIsRecorded": false,
 		"CostCenterCreationDate": "20210310"
 	},
 	"api_schema": "sap.s4.beh.costcenter.v1.CostCenter.ValdtyPerdCreated.v1",
 	"cost_center_code": "1000",
-	"deleted": ""
+	"deleted": false
 }
