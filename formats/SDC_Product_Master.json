@@ -56,7 +56,6 @@
 				"IsMarkedForDeletion": {}
 			},
 			"Procurement": {
-				"PurchaseOrderQuantityUnit": {},
 				"IsAutoPurOrdCreationAllowed": {},
 				"IsSourceListRequired": {}
 			},
