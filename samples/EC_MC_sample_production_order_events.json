@@ -6,17 +6,17 @@
 	"document": {
 		"document_no": "",
 		"deliver_to": "",
-		"quantity": null,
-		"picked_quantity": null,
-		"price": null,
+		"quantity": "",
+		"picked_quantity": "",
+		"price": "",
 		"batch": ""
 	},
 	"production_order": {
 		"document_no": "1000040",
 		"status": "REL PRC MACM SETC",
 		"deliver_to": "1000",
-		"quantity": 30,
-		"completed_quantity": 30,
+		"quantity": "30",
+		"completed_quantity": "30",
 		"planned_start_date": "20211010",
 		"planned_validated_date": "20211010",
 		"actual_start_date": "20211011",
@@ -24,11 +24,11 @@
 		"batch" : "",
 		"work": {
 			"work_no": "0020",
-			"quantity": 30,
-			"completed_quantity": 30,
-			"errored_quantity": 0,
+			"quantity": "30",
+			"completed_quantity": "30",
+			"errored_quantity": "0",
 			"component": "",
-			"planned_component_quantity": null,
+			"planned_component_quantity": "",
 			"planned_start_date": "20211011",
 			"planned_start_time": "08:00:00",
 			"planned_validated_date": "20211011",
@@ -42,10 +42,10 @@
 	"api_schema": "sap.s4.beh.productionorder.v1.ProductionOrder.Created.v1",
 	"material_code": "100141",
 	"plant/supplier": "1000",
-	"stock": 7,
+	"stock": "7",
 	"document_type": "PP01",
 	"document_no": "1000040",
 	"planned_date": "20211011",
 	"validated_date": "20211011",
-	"deleted": ""
+	"deleted": false
 }
