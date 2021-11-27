@@ -35,7 +35,7 @@
                 "SalesOrganization": "1000",
 				"DistributionChannel": "01",
 				"Division": "10",
-				"CompleteDeliveryIsDefined": "",
+				"CompleteDeliveryIsDefined": false,
 				"Currency": "JPY",
 				"CustomerAccountAssignmentGroup": "01",
 				"CustomerPaymentTerms": "Z001",
@@ -44,7 +44,7 @@
 				"DeliveryPriority": "",
 				"IncotermsClassification": "FH",
 				"InvoiceDate": "",
-				"OrderCombinationIsAllowed": "",
+				"OrderCombinationIsAllowed": false,
 				"PartialDeliveryIsAllowed": "X",
 				"PriceListType": "",
 				"SalesGroup": "",
@@ -57,7 +57,7 @@
 				"OrderIsBlockedForCustomer": "",
 				"DeliveryIsBlockedForCustomer": "",
 				"BillingIsBlockedForCustomer": "",
-				"DeletionIndicator": ""
+				"DeletionIndicator": false
 				},
 		"Company": {
             "Customer_desc": "ラトナ株式会社",
@@ -68,10 +68,10 @@
 			"PaymentMethodsList": "",
 			"PaymentTerms": "Z001",
 			"ReconciliationAccount": "113100",
-			"DeletionIndicator": ""
+			"DeletionIndicator": false
 		}
   },
   "api_schema": "sap.s4.beh.businesspartner.v1.BusinessPartner.Created.v1",
   "business_partner_code": "24",
-  "deleted": ""
+  "deleted": false
 }

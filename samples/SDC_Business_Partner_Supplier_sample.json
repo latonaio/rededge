@@ -33,16 +33,16 @@
 	        "Supplier_desc": "ラトナ株式会社",
 	        "PurchasingOrganization": "1000",
 	        "IncotermsClassification": "",
-	        "InvoiceIsGoodsReceiptBased": "X",
+	        "InvoiceIsGoodsReceiptBased": true,
 	        "PaymentTerms": "Z001",
-	        "PurOrdAutoGenerationIsAllowed": "X",
+	        "PurOrdAutoGenerationIsAllowed": true,
 	        "PurchaseOrderCurrency": "JPY",
 	        "PurchasingGroup": "100",
 	        "ShippingCondition": "",
 	        "SupplierPhoneNumber": "",
 	        "SupplierRespSalesPersonName": "",
-		    "PurchasingIsBlockedForSupplier": "",
-	        "DeletionIndicator": ""
+		    "PurchasingIsBlockedForSupplier": false,
+	        "DeletionIndicator": false
 		},
 		"Company": {
             "Supplier_desc": "ラトナ株式会社",
@@ -53,11 +53,11 @@
 		    "ClearCustomerSupplier": "",
 		    "HouseBank": "SM000",
 		    "ReconciliationAccount": "412100",
-		    "SupplierIsBlockedForPosting": "",
-			"DeletionIndicator": ""
+		    "SupplierIsBlockedForPosting": false,
+			"DeletionIndicator": false
 		}
   },
   "api_schema": "sap.s4.beh.businesspartner.v1.BusinessPartner.Created.v1",
   "business_partner_code":  "100084",
-  "deleted":  ""
+  "deleted":  false
 }

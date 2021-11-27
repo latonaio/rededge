@@ -16,11 +16,11 @@
 		"ManufactureDate": "20211109",
 		"CreationDateTime": "20211109",
 		"LastChangeDateTime": "20211109/10:11:55",
-		"BatchIsMarkedForDeletion": ""
+		"BatchIsMarkedForDeletion": false
 	},
 	"api_schema": "sap.s4.beh.batch.v1.Batch.Created.v1",
 	"material_code": "100141",
 	"plant": "1000",
 	"batch_code": "70000001",
-	"deleted": ""
+	"deleted": false
 }
