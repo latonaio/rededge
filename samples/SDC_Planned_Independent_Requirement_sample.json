@@ -12,15 +12,15 @@
 		"PlndIndepRqmtVersion": "",
 		"RequirementPlan": "",
         "RequirementSegment": "",
-		"PlndIndepRqmtInternalID": 121,
+		"PlndIndepRqmtInternalID": "121",
 		"UnitOfMeasure": "PC",
 		"PlndIndepRqmtPeriod": "",
 		"PlndIndepRqmtPeriodStartDate": "20211007",
-		"PlannedQuantity": 300,
+		"PlannedQuantity": "300",
 		"LastChangeDate": "20210630"
 	},
 	"api_schema": "/PlannedIndepRqmt(Product='{Product}',Plant='{Plant}',MRPArea='{MRPArea}',PlndIndepRqmtType='{PlndIndepRqmtType}',PlndIndepRqmtVersion='{PlndIndepRqmtVersion}',RequirementPlan='{RequirementPlan}',RequirementSegment='{RequirementSegment}')/to_PlndIndepRqmtItem",
 	"material_code": "100141",
 	"plant": "1000",
-	"deleted": ""
+	"deleted": false
 }

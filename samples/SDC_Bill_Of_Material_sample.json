@@ -10,17 +10,17 @@
 		"BillOfMaterialVariant": "00000001",
 		"ValidityStartDate": "20211109",
 		"ValidityEndDate": "",
-		"HeaderIsDeleted": "",
+		"HeaderIsDeleted": false,
 		"BillOfMaterialItemNodeNumber": {
 			"BillOfMaterialItemNodeNumber": "1",
 			"BillOfMaterialComponent": "25",
-			"BillOfMaterialItemQuantity": 45.5,
-			"ComponentScrapInPercent": 10.2,
-			"ItemIsDeleted": ""
+			"BillOfMaterialItemQuantity": "45.5",
+			"ComponentScrapInPercent": "10.2",
+			"ItemIsDeleted": false
 		}
 	},
 	"api_schema": "sap.s4.beh.billofmaterial.v1.BillOfMaterial.Created.v1",
 	"material_code": "100141",
 	"plant": "1000",
-	"deleted": ""
+	"deleted": false
 }

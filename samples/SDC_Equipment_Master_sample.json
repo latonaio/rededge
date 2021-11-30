@@ -11,7 +11,7 @@
 		"EquipmentName": "Test Equipment",
 		"EquipmentCategory": "M",
 		"TechnicalObjectType": "1000",
-		"GrossWeight": 1000,
+		"GrossWeight": "1000",
 		"GrossWeightUnit": "KG",
 		"SizeOrDimensionText": "1000 cm x 1000 cm x 1000 cm",
 		"InventoryNumber": "2940AFa90",
@@ -50,13 +50,13 @@
 		"TechnicalObjectSortCode": "",
 		"ConstructionMaterial": "",
 		"Material": "",
-		"EquipmentIsAvailable": "",
-		"EquipmentIsInstalled": "",
-		"EquipIsAllocToSuperiorEquip": "",
-		"EquipHasSubOrdinateEquipment": "",
+		"EquipmentIsAvailable": false,
+		"EquipmentIsInstalled": false,
+		"EquipIsAllocToSuperiorEquip": false,
+		"EquipHasSubOrdinateEquipment": false,
 		"CreationDate": "20211110",
 		"LastChangeDateTime": "20211110/10:47:56",
-		"EquipmentIsMarkedForDeletion": "",
+		"EquipmentIsMarkedForDeletion": false,
 		"BusinessPartner": {
 			"BusinessPartner": ["PartnerFunction", "EquipmentPartnerObjectNmbr"],
 			"PartnerFunction": "VN",
@@ -67,5 +67,5 @@
 	},
 	"api_schema": "sap.s4.beh.equipment.v1.Equipment.Created.v1",
 	"equipment_code": "10000000",
-	"deleted": ""
+	"deleted": false
 }

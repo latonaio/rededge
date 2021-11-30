@@ -10,31 +10,31 @@
 		"ProductionRouting": "1",
 		"ProductionRoutingGroup_desc": "",
 		"BillOfOperationsStatus": "",
-		"MinimumLotSizeQuantity": 0,
-		"MaximumLotSizeQuantity": 99999999,
+		"MinimumLotSizeQuantity": "0",
+		"MaximumLotSizeQuantity": "99999999",
 		"ValidityStartDate": "20211001",
 		"ValidityEndDate": "99991231",
-		"IsMarkedForDeletion": "",
+		"IsMarkedForDeletion": false,
 		"ProdnRtgOpBOMItemInternalID": "",
 		"ProductionRoutingOpIntID": {
-			"ProductionRoutingOpIntID": 1,
+			"ProductionRoutingOpIntID": "1",
 			"BillOfMaterial": "00000005",
-			"BillOfMaterialItemNodeNumber": 1,
-			"MatlCompIsMarkedForBackflush": "X",
-			"WorkCenterInternalID": 10000194,
+			"BillOfMaterialItemNodeNumber": "1",
+			"MatlCompIsMarkedForBackflush": true,
+			"WorkCenterInternalID": "10000194",
 			"Operation": "0010",
 			"OperationText": "Test Operation 0010",
 			"PurchasingInfoRecord": "5500000000",
 			"MaterialGroup": "01",
 			"PurchasingGroup": "100",
 			"Supplier": "1000184",
-			"PlannedDeliveryDuration": 5,
-			"NumberOfOperationPriceUnits": 1,
-			"OpExternalProcessingPrice": 1260
+			"PlannedDeliveryDuration": "5",
+			"NumberOfOperationPriceUnits": "1",
+			"OpExternalProcessingPrice": "1260"
 		}
 	},
 	"api_schema": "/OpEquipmentPRTAssgmt",
 	"material_code": "100141",
 	"plant": "1000",
-	"deleted": ""
+	"deleted": false
 }

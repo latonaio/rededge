@@ -10,7 +10,7 @@
 		"ValidityStartDate": "20211101",
 		"ProductGroup": "01",
 		"Division": "01",
-		"GrossWeight": 100,
+		"GrossWeight": "100",
 		"WeightUnit": "G",
 		"SizeOrDimensionText": "100mm x 100mm x 28.5mm",
 		"ProductStandardID": "12345-6789",
@@ -20,45 +20,44 @@
 			"ProductionInvtryManagedLoc": "1000",
 			"AvailabilityCheckType": "01",
 			"ProfitCenter": "1000",
-			"GoodsReceiptDuration": 3,
+			"GoodsReceiptDuration": "3",
 			"MRPType": "M0",
 			"MRPResponsible": "001",
-			"MinimumLotSizeQuantity": 10,
-			"MaximumLotSizeQuantity": 1000,
-			"FixedLotSizeQuantity": null,
-			"IsBatchManagementRequired": "X",
+			"MinimumLotSizeQuantity": "10",
+			"MaximumLotSizeQuantity": "1000",
+			"FixedLotSizeQuantity": "",
+			"IsBatchManagementRequired": true,
 			"ProcurementType": "X",
-			"IsInternalBatchManaged": "X",
+			"IsInternalBatchManaged": true,
 			"GoodsIssueUnit": "PC",
 			"MaterialFreightGroup": "0001",
 			"ProductLogisticsHandlingGroup": "0001",
-			"IsMarkedForDeletion": "",
+			"IsMarkedForDeletion": false,
 			"MRPArea": {
 				"MRPArea": "1000",
 				"MRPType": "M0",
 				"MRPResponsible": "001",
 				"MRPGroup": "0001",
-				"ReorderThresholdQuantity": null,
-				"PlanningTimeFence": 20,
+				"ReorderThresholdQuantity": "",
+				"PlanningTimeFence": "20",
 				"LotSizingProcedure": "EX",
-				"LotSizeRoundingQuantity": 10,
-				"MinimumLotSizeQuantity": 10,
-				"MaximumLotSizeQuantity": 1000,
-				"MaximumStockQuantity": null,
+				"LotSizeRoundingQuantity": "10",
+				"MinimumLotSizeQuantity": "10",
+				"MaximumLotSizeQuantity": "1000",
+				"MaximumStockQuantity": "",
 				"ProcurementSubType": "",
 				"DfltStorageLocationExtProcmt": "1000",
 				"MRPPlanningCalendar": "Z00",
-				"SafetyStockQuantity": null,
-				"SafetyDuration": null,
-				"FixedLotSizeQuantity": null,
-				"PlannedDeliveryDurationInDays": 25,
+				"SafetyStockQuantity": "",
+				"SafetyDuration": "",
+				"FixedLotSizeQuantity": "",
+				"PlannedDeliveryDurationInDays": "25",
 				"StorageLocation": "1000",
-				"IsMarkedForDeletion": ""
+				"IsMarkedForDeletion": false
 			},
 			"Procurement": {
-				"PurchaseOrderQuantityUnit": "PC",
-				"IsAutoPurOrdCreationAllowed": "X",
-				"IsSourceListRequired": "X"
+				"IsAutoPurOrdCreationAllowed": true,
+				"IsSourceListRequired": true
 			},
 			"Sales_Plant": {
 				"SalesStatus": "",
@@ -70,11 +69,11 @@
 			},
 			"Work_Scheduling": {
 				"ProductionInvtryManagedLoc": "1000",
-				"ProductProcessingTime": 15,
+				"ProductProcessingTime": "15",
 				"ProductionSupervisor": "",
 				"ProductProductionQuantityUnit": "PC",
-				"ProdnOrderIsBatchRequired": "X",
-				"MatlCompIsMarkedForBackflush": "X",
+				"ProdnOrderIsBatchRequired": true,
+				"MatlCompIsMarkedForBackflush": true,
 				"ProductionSchedulingProfile": "000001"
 			}
 		},
@@ -88,20 +87,20 @@
 			"ItemCategoryGroup": "NORM",
 			"SalesMeasureUnit": "PC",
 			"ProductHierarchy": "",
-			"IsMarkedForDeletion": ""
+			"IsMarkedForDeletion": false
 		},
 		"ValuationArea": {
 			"ValuationArea": "1000",
 			"ValuationClass": "7920",
-			"StandardPrice": 167000,
-			"PriceUnitQty": 100,
-			"MovingAveragePrice": null,
+			"StandardPrice": "167000",
+			"PriceUnitQty": "100",
+			"MovingAveragePrice": "",
 			"PriceLastChangeDate": "20211101",
-			"PlannedPrice": null,
-			"IsMarkedForDeletion": ""
+			"PlannedPrice": "",
+			"IsMarkedForDeletion": false
 		}
 	},
 	"api_schema": "sap.s4.beh.product.v1.Product.Created.v1",
 	"material_code": "100141",
-	"deleted": ""
+	"deleted": false
 }

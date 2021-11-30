@@ -6,7 +6,7 @@
 	"SalesPricing": {
 		"ConditionRecord": "0000006953",
 		"ConditionSequentialNumber": {
-			"ConditionSequentialNumber": 1,
+			"ConditionSequentialNumber": "1",
 			"ConditionTable": "305",
 			"ConditionApplication": "V",
 			"ConditionType": "PR00",
@@ -20,29 +20,29 @@
 			"CreationDate": "20211008",
 			"PricingScaleType": "A",
 			"PricingScaleBasis": "",
-			"ConditionScaleQuantity": 0,
+			"ConditionScaleQuantity": "0",
 			"ConditionScaleQuantityUnit": "",
-			"ConditionScaleAmount": 0,
+			"ConditionScaleAmount": "0",
 			"ConditionScaleAmountCurrency": "",
 			"ConditionCalculationType": "C",
-			"ConditionRateValue": 2640,
-			"ConditionRateValueUnit": 1,
+			"ConditionRateValue": "2640",
+			"ConditionRateValueUnit": "1",
 			"ConditionQuantity": "",
 			"ConditionQuantityUnit": "PC",
 			"BaseUnit": "PC",
-			"ConditionLowerLimit": 0,
-			"ConditionUpperLimit": 0,
+			"ConditionLowerLimit": "0",
+			"ConditionUpperLimit": "0",
 			"ConditionExclusion": "",
 			"PaymentTerms": "",
-			"MinimumConditionBasisValue": 0,
-			"MaximumConditionBasisValue": 0,
-			"MaximumConditionAmount": 0,
-			"PricingScaleLine": 0,
+			"MinimumConditionBasisValue": "0",
+			"MaximumConditionBasisValue": "0",
+			"MaximumConditionAmount": "0",
+			"PricingScaleLine": "0",
 			"ConditionReleaseStatus": "",
-			"ConditionIsDeleted": ""
+			"ConditionIsDeleted": false
 		}
 	},
-	"api_schema": "sap.s4.beh.product.v1.Product.Created.v1",
+	"api_schema": "sap.s4.beh.salespricingconditionrecord.v1.SalesPricingConditionRecord.Created.v1",
 	"sales_pricing_condition_record": "0000006953",
-	"deleted": ""
+	"deleted": false
 }

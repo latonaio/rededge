@@ -9,9 +9,9 @@
 		"Plant": "1000",
 		"StorageLocation": "1000",
 		"Batch": "",
-		"to_MaterialStock": 7
+		"to_MaterialStock": "7"
 	},
 	"api_schema": "/A_MaterialStock('{Material}')/to_MatlStkInAcctMod",
 	"material_code": "100141",
-	"deleted": ""
+	"deleted": false
 }
