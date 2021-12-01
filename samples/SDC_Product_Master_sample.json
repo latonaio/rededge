@@ -60,16 +60,12 @@
 				"IsSourceListRequired": true
 			},
 			"Sales_Plant": {
-				"SalesStatus": "",
-				"SalesStatusValidityDate": "",
-				"TaxClassification": "1",
-				"TransportationGroup": "0001",
 				"LoadingGroup": "0001",
 				"AvailabilityCheckType": "01"
 			},
 			"Work_Scheduling": {
 				"ProductionInvtryManagedLoc": "1000",
-				"ProductProcessingTime": "15",
+				"ProductProcessingTime": 15,
 				"ProductionSupervisor": "",
 				"ProductProductionQuantityUnit": "PC",
 				"ProdnOrderIsBatchRequired": true,
