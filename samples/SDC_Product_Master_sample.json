@@ -65,11 +65,11 @@
 			},
 			"Work_Scheduling": {
 				"ProductionInvtryManagedLoc": "1000",
-				"ProductProcessingTime": 15,
+				"ProductProcessingTime": "",
 				"ProductionSupervisor": "",
 				"ProductProductionQuantityUnit": "PC",
-				"ProdnOrderIsBatchRequired": true,
-				"MatlCompIsMarkedForBackflush": true,
+				"ProdnOrderIsBatchRequired": "",
+				"MatlCompIsMarkedForBackflush": "",
 				"ProductionSchedulingProfile": "000001"
 			}
 		},
