@@ -17,7 +17,8 @@
         "InventorySpecialStockType": {},
         "InventoryStockType": {},
         "MaterialBaseUnit": {},
-        "MatlWrhsStkQtyInMatlBaseUnit": {}
+        "MatlWrhsStkQtyInMatlBaseUnit": {},
+		"to_MaterialStock": {}
 	},
 	"api_schema": {},
 	"material_code": {},
