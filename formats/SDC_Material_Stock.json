@@ -9,7 +9,15 @@
 		"Plant": {},
 		"StorageLocation": {},
 		"Batch": {},
-		"to_MaterialStock": {}
+        "Supplier": {},
+        "Customer": {},
+        "WBSElementInternalID": {},
+        "SDDocument": {},
+        "SDDocumentItem": {},
+        "InventorySpecialStockType": {},
+        "InventoryStockType": {},
+        "MaterialBaseUnit": {},
+        "MatlWrhsStkQtyInMatlBaseUnit": {}
 	},
 	"api_schema": {},
 	"material_code": {},
