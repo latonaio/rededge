@@ -9,6 +9,8 @@
 		"DocumentDate": "20210914",
 		"ActualGoodsMovementDate": "20210914",
 		"ActualDeliveryRoute": "",
+        "Shippinglocationtimezone": "",
+        "Receivinglocationtimezone": "",
 		"ActualGoodsMovementTime": "09:25:13",
 		"BillingDocumentDate": "20210930",
 		"CompleteDeliveryIsDefined": false,

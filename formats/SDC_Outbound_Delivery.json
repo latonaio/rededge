@@ -9,6 +9,8 @@
 		"DocumentDate": {},
 		"ActualGoodsMovementDate": {},
 		"ActualDeliveryRoute": {},
+        "Shippinglocationtimezone": {},
+        "Receivinglocationtimezone": {},
 		"ActualGoodsMovementTime": {},
 		"BillingDocumentDate": {},
 		"CompleteDeliveryIsDefined": {},
