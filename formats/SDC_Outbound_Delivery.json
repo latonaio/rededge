@@ -112,20 +112,22 @@
 		},
 		"PartnerFunction": {
 			"PartnerFunction": {},
-			"AddressID": {},
 			"Customer": {},
 			"Supplier": {},
-			"BusinessPartnerName1": {},
-			"Country": {},
-			"Region": {},
-			"StreetName": {},
-			"CityName": {},
-			"PostalCode": {},
-			"CorrespondenceLanguage": {},
-			"EmailAddress": {},
-			"FaxNumber": {},
-			"MobilePhoneNumber": {},
-			"PhoneNumber": {}
+			"AddressID": {
+				"BusinessPartnerName1": {},
+				"AddressID": {},
+				"Country": {},
+				"Region": {},
+				"StreetName": {},
+				"CityName": {},
+				"PostalCode": {},
+				"CorrespondenceLanguage": {},
+				"EmailAddress": {},
+				"FaxNumber": {},
+				"MobilePhoneNumber": {},
+				"PhoneNumber": {}
+			}
 		}
 	},
 	"api_schema": {},
