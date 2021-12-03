@@ -60,10 +60,6 @@
 				"IsSourceListRequired": {}
 			},
 			"Sales_Plant": {
-				"SalesStatus": {},
-				"SalesStatusValidityDate": {},
-				"TaxClassification": {},
-				"TransportationGroup": {},
 				"LoadingGroup": {},
 				"AvailabilityCheckType": {}
 			},

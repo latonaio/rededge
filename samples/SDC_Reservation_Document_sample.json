@@ -4,7 +4,7 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"ReservationDocument": {
-		"Reservation": 23,
+		"Reservation": "23",
 		"OrderID": "1000001",
 		"GoodsMovementType": "261",
 		"CostCenter": "",
@@ -55,7 +55,7 @@
 			"ReservationItemText": ""
 		}
 	},
-	"api_schema": "/A_ReservationDocumentHeader('{Reservation}')/to_ReservationDocumentItem",
-	"reservation_document": 23,
+	"api_schema": "/A_ReservationDocumentHeader",
+	"reservation_document": "23",
 	"deleted": false
 }

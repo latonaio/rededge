@@ -21,7 +21,7 @@
 		"ProductionUnit": "PC",
 		"Status": {
 			"StatusCode": "REL PRC MACM SETC",
-			"IsUserStatus": "",
+			"IsUserStatus": false,
 			"StatusShortName": "",
 			"StatusName": ""
 		},

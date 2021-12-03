@@ -50,7 +50,7 @@
 			"PaymentBlockingReason": "",
 		    "PaymentMethodsList": "T",
 		    "PaymentTerms": "Z001",
-		    "ClearCustomerSupplier": "",
+		    "ClearCustomerSupplier": false,
 		    "HouseBank": "SM000",
 		    "ReconciliationAccount": "412100",
 		    "SupplierIsBlockedForPosting": false,

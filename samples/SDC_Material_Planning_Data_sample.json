@@ -13,7 +13,7 @@
 		"MRPPlanningSegmentType": "",
 		"MRPElement": "4500000073",
 		"MRPElementItem": "10",
-		"HasAcceptedShortage": "",
+		"HasAcceptedShortage": false,
 		"TimeHorizonInDays": "",
 		"MaterialShortageDuration": "",
 		"MaterialShortageDurnInWorkdays": "",
