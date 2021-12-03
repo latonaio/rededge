@@ -16,7 +16,7 @@
 		"BillingDocumentDate": "20210930",
 		"BillingDocumentIsCancelled": false,
 		"CancelledBillingDocument": "",
-		"IsExportDelivery": false,
+		"IsExportDelivery": "",
 		"TotalNetAmount": "45903",
 		"TransactionCurrency": "JPY",
 		"TaxAmount": "4173",
