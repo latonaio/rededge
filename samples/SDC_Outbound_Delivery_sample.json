@@ -114,9 +114,9 @@
 			"PartnerFunction": "SH",
 			"Customer": "24",
 			"Supplier": "",
-			"BusinessPartnerName1": "ラトナ株式会社",
 			"AddressID": {
-				"AddressID": "23806",
+			    "BusinessPartnerName1": "ラトナ株式会社",
+                "AddressID": "23806",
 				"Country": "JP",
 				"Region": "13",
 				"StreetName": "東京都渋谷区",
