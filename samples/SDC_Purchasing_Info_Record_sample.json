@@ -13,7 +13,7 @@
 		"SupplierRespSalesPersonName": "",
 		"SupplierPhoneNumber": "",
 		"SupplierMaterialGroup": "",
-		"IsRegularSupplier": "",
+		"IsRegularSupplier": false,
 		"AvailabilityStartDate": "20211001",
 		"AvailabilityEndDate": "99991231",
 		"Manufacturer": "",
