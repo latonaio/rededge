@@ -8,10 +8,6 @@
 		    "BusinessPartnerRole": "FLVN01",
             "ValidFrom": "20211109",
             "ValidTo": "",
-			"BusinessPartner": "100084",
-			"BusinessPartnerRole": "FLVN00",
-			"ValidFrom": "20211109",
-			"ValidTo": "",
 		    "AddressID": {
 			    "AddressID": "000001",
                 "ValidityStartDate": "20211109",
