@@ -46,7 +46,7 @@
 			"TaxCode": "V1",
 			"IncotermsClassification": "",
 			"MaximumOrderQuantity": "1000",
-			"IsRelevantForAutomSrcg": false,
+			"IsRelevantForAutomSrcg": "",
 			"IsEvaluatedRcptSettlmtAllowed": true,
 			"IsPurOrderAllwdForInbDeliv": false,
 			"IsOrderAcknRqd": false,
