@@ -27,6 +27,7 @@
 			"Plant": {},
 			"Supplier": {},
 			"Material": {},
+			"MaterialGroup": {},
 			"PurgDocOrderQuantityUnit": {},
 			"PurchasingGroup": {},
 			"MinimumPurchaseOrderQuantity": {},

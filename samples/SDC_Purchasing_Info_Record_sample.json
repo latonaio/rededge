@@ -27,6 +27,7 @@
 			"Plant": "1000",
 			"Supplier": "100084",
 			"Material": "25",
+			"MaterialGroup": "",
 			"PurgDocOrderQuantityUnit": "M",
 			"PurchasingGroup": "100",
 			"MinimumPurchaseOrderQuantity": "1",
