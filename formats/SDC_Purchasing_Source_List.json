@@ -4,7 +4,6 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
 	"PurchasingSourceList": {
-		"PurchasingSourceList": ["Material", "Plant", "SourceListRecord"],
 		"Material": {},
 		"Plant": {},
 		"SourceListRecord": {},
