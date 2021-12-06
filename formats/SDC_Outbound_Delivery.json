@@ -115,17 +115,15 @@
 			"Customer": {},
 			"Supplier": {},
 			"AddressID": {
-				"BusinessPartnerName1": {},
 				"AddressID": {},
+				"BusinessPartnerName1": {},
 				"Country": {},
 				"Region": {},
 				"StreetName": {},
 				"CityName": {},
 				"PostalCode": {},
 				"CorrespondenceLanguage": {},
-				"EmailAddress": {},
 				"FaxNumber": {},
-				"MobilePhoneNumber": {},
 				"PhoneNumber": {}
 			}
 		}

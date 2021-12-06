@@ -4,7 +4,6 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"business_partner":  {
-		"BusinessPartnerData": ["BusinessPartner", "BusinessPartnerRole"],
             "BusinessPartner": "100084",
 		    "BusinessPartnerRole": "FLVN01",
             "ValidFrom": "20211109",
@@ -22,15 +21,9 @@
                 "StreetName": "東京都渋谷区",
                 "CityName": "神宮前6-12-18 WeWork Iceberg 3F",
                 "PostalCode": "150-0001",
-                "Language": "JA",
-                "to_EmailAddress": "info@latona.io",
-                "to_FaxNumber": "",
-                "to_MobilePhoneNumber": "",
-                "to_PhoneNumber": "050-3708-0406",
-		        "to_URLAddress": "https://www.latona.io/"
+                "Language": "JA"
 		     },
 		"Purchasing_Organization": {
-	        "Supplier_desc": "ラトナ株式会社",
 	        "PurchasingOrganization": "1000",
 	        "IncotermsClassification": "",
 	        "InvoiceIsGoodsReceiptBased": true,
@@ -45,7 +38,7 @@
 	        "DeletionIndicator": false
 		},
 		"Company": {
-            "Supplier_desc": "ラトナ株式会社",
+
 			"CompanyCode": "1000",
 			"PaymentBlockingReason": "",
 		    "PaymentMethodsList": "T",
