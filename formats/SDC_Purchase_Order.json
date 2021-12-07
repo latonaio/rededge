@@ -99,6 +99,18 @@
 				"TaxCode": {},
 				"CostCtrActivityType": {},
 				"IsDeleted": {}
+			},
+			"ScheduleLine": {
+                "PurchasingDocumentItem": {},
+				"ScheduleLine": {},
+				"DelivDateCategory": {},
+				"ScheduleLineDeliveryDate": {},
+				"PurchaseOrderQuantityUnit": {},
+				"ScheduleLineOrderQuantity": {},
+				"ScheduleLineDeliveryTime": {},
+				"PurchaseRequisition": {},
+				"PurchaseRequisitionItem": {},
+				"ScheduleLineCommittedQuantity": {}
 			}
 		}
 	},

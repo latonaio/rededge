@@ -99,6 +99,18 @@
 				"TaxCode": "",
 				"CostCtrActivityType": "",
 				"IsDeleted": false
+			},
+			"ScheduleLine": {
+                "PurchasingDocumentItem": "10",
+				"ScheduleLine": "1",
+				"DelivDateCategory": "1",
+				"ScheduleLineDeliveryDate": "20211031",
+				"PurchaseOrderQuantityUnit": "PC",
+				"ScheduleLineOrderQuantity": "10",
+				"ScheduleLineDeliveryTime": "",
+				"PurchaseRequisition": "",
+				"PurchaseRequisitionItem": "",
+				"ScheduleLineCommittedQuantity": ""
 			}
 		}
 	},
