@@ -47,7 +47,6 @@
 			"DocumentCurrency": {},
 			"NetPriceAmount": {},
 			"NetPriceQuantity": {},
-			"ScheduleLineDeliveryDate": {},
 			"TaxCode": {},
 			"OverdelivTolrtdLmtRatioInPct": {},
 			"UnlimitedOverdeliveryIsAllowed": {},
