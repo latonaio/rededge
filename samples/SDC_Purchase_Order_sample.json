@@ -77,7 +77,7 @@
 			"DeliveryAddressCityName": "神宮前6-12-18 WeWork Iceberg 3F",
 			"DeliveryAddressRegion": "13",
 			"DeliveryAddressCountry": "JP",
-			"PurchasingDocumentDeletionCode": false,
+			"PurchasingDocumentDeletionCode": "",
 			"AccountAssignmentNumber": {
 				"AccountAssignmentNumber": "",
 				"GLAccount": "",
