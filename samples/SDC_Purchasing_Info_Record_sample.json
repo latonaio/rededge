@@ -51,20 +51,22 @@
 			"IsPurOrderAllwdForInbDeliv": false,
 			"IsOrderAcknRqd": false,
 			"IsMarkedForDeletion": false,
-			"ConditionRecord": {
-				"ConditionRecord": "0000006959",
+			"PricingCondition": {
+				"ConditionRecord": "0000006872",
+				"PurchasingOrganization": "1000",
+				"Supplier": "100084",
+				"Material": "25",
+				"MaterialGroup": "",
+				"Plant": "1000",
 				"ConditionValidityEndDate": "99991231",
 				"ConditionValidityStartDate": "20211001",
-				"ConditionSequentialNumber": {
-					"ConditionSequentialNumber": "1",
-					"ConditionApplication": "M",
-					"ConditionType": "PB00",
-					"ConditionScaleQuantity": "0",
-					"ConditionScaleQuantityUnit": "M",
-					"ConditionScaleAmount": "0",
-					"ConditionRateValue": "98",
-					"ConditionQuantity": "1"
-				}
+				"ConditionApplication": "M",
+				"ConditionType": "PB00",
+				"ConditionScaleQuantity": "0",
+				"ConditionScaleQuantityUnit": "M",
+				"ConditionScaleAmount": "0",
+				"ConditionRateValue": "98",
+				"ConditionQuantity": "1"
 			}
 		}
 	},

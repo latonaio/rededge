@@ -51,19 +51,22 @@
 			"IsPurOrderAllwdForInbDeliv": {},
 			"IsOrderAcknRqd": {},
 			"IsMarkedForDeletion_PO_Level": {},
-			"ConditionRecord": {
+			"PricingCondition": {
 				"ConditionRecord": {},
+				"PurchasingOrganization": {},
+				"Supplier": {},
+				"Material": {},
+				"MaterialGroup": {},
+				"Plant": {},
 				"ConditionValidityEndDate": {},
 				"ConditionValidityStartDate": {},
-				"ConditionSequentialNumber": {
-					"ConditionSequentialNumber": {},
-					"ConditionApplication": {},
-					"ConditionType": {},
-					"ConditionScaleQuantity": {},
-					"ConditionScaleQuantityUnit": {},
-					"ConditionScaleAmount": {},
-					"ConditionRateValue": {},
-					"ConditionQuantity": {}
+				"ConditionApplication": {},
+				"ConditionType": {},
+				"ConditionScaleQuantity": {},
+				"ConditionScaleQuantityUnit": {},
+				"ConditionScaleAmount": {},
+				"ConditionRateValue": {},
+				"ConditionQuantity": {}
 				}
 			}
 		}
