@@ -28,7 +28,7 @@
 		"SupplierPostingLineItemText": "",
 		"TaxIsCalculatedAutomatically": true,
 		"BusinessArea": "1000",
-		"SupplierInvoiceIsCreditMemo": false,
+		"SupplierInvoiceIsCreditMemo": "",
 		"ReverseDocument": "",
 		"ReverseDocumentFiscalYear": "",
 		"Tax": {
