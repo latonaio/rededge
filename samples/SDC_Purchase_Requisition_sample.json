@@ -55,7 +55,7 @@
 			"MRPController": "001",
 			"Reservation": "0",
 			"LastChangeDateTime": "20211115/17:12:08",
-			"IsDeleted": false,
+			"IsDeleted": "",
 			"PurchaseReqnAcctAssgmtNumber": {
 				"PurchaseReqnAcctAssgmtNumber": "",
 				"CostCenter": "",
@@ -78,7 +78,7 @@
 				"GoodsRecipientName": "",
 				"CostCtrActivityType": "",
 				"WBSElement": "",
-				"IsDeleted": false
+				"IsDeleted": ""
 			},
 			"AddressID": {
 				"AddressID": "23827",
