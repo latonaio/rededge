@@ -37,7 +37,7 @@
 			"TaxAmount": "25140",
 			"TaxBaseAmountInTransCrcy": "251400"
 		},
-		"PurchaseOrderReference": {
+		"PurchaseOrder": {
 			"SupplierInvoiceItem": "1",
 			"PurchaseOrder": "4500000000",
 			"PurchaseOrderItem": "10",
