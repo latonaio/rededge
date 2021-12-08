@@ -6,7 +6,7 @@
 	"PurchaseRequisition": {
 		"PurchaseRequisition": "10000011",
 		"PurchaseRequisitionType": "NB",
-		"SourceDetermination": "",
+		"SourceDetermination": false,
 		"PurchaseRequisitionItem": {
 			"PurchaseRequisitionItem": "10",
 			"PurchasingDocument": "4500000080",
@@ -46,7 +46,7 @@
 			"PurReqnSourceOfSupplyType": "B",
 			"ConsumptionPosting": "",
 			"PurReqnOrigin": "",
-			"IsPurReqnBlocked": false,
+			"IsPurReqnBlocked": "",
 			"PurchaseRequisitionStatus": "B",
 			"Batch": "",
 			"GoodsReceiptIsExpected": false,

@@ -47,7 +47,6 @@
 			"DocumentCurrency": "JPY",
 			"NetPriceAmount": "0",
 			"NetPriceQuantity": "10",
-			"ScheduleLineDeliveryDate": "20211117",
 			"TaxCode": "",
 			"OverdelivTolrtdLmtRatioInPct": "0",
 			"UnlimitedOverdeliveryIsAllowed": false,
@@ -61,7 +60,7 @@
 			"InvoiceIsExpected": false,
 			"InvoiceIsGoodsReceiptBased": false,
 			"Customer": "",
-			"SupplierIsSubcontractor": "",
+			"SupplierIsSubcontractor": false,
 			"ItemNetWeight": "0",
 			"ItemWeightUnit": "",
 			"IncotermsClassification": "",
@@ -77,7 +76,7 @@
 			"DeliveryAddressCityName": "神宮前6-12-18 WeWork Iceberg 3F",
 			"DeliveryAddressRegion": "13",
 			"DeliveryAddressCountry": "JP",
-			"PurchasingDocumentDeletionCode": false,
+			"PurchasingDocumentDeletionCode": "",
 			"AccountAssignmentNumber": {
 				"AccountAssignmentNumber": "",
 				"GLAccount": "",
@@ -100,6 +99,18 @@
 				"TaxCode": "",
 				"CostCtrActivityType": "",
 				"IsDeleted": false
+			},
+			"ScheduleLine": {
+                "PurchasingDocumentItem": "10",
+				"ScheduleLine": "1",
+				"DelivDateCategory": "1",
+				"ScheduleLineDeliveryDate": "20211031",
+				"PurchaseOrderQuantityUnit": "PC",
+				"ScheduleLineOrderQuantity": "10",
+				"ScheduleLineDeliveryTime": "",
+				"PurchaseRequisition": "",
+				"PurchaseRequisitionItem": "",
+				"ScheduleLineCommittedQuantity": ""
 			}
 		}
 	},
