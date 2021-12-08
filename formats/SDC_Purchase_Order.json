@@ -47,7 +47,6 @@
 			"DocumentCurrency": {},
 			"NetPriceAmount": {},
 			"NetPriceQuantity": {},
-			"ScheduleLineDeliveryDate": {},
 			"TaxCode": {},
 			"OverdelivTolrtdLmtRatioInPct": {},
 			"UnlimitedOverdeliveryIsAllowed": {},
@@ -100,6 +99,18 @@
 				"TaxCode": {},
 				"CostCtrActivityType": {},
 				"IsDeleted": {}
+			},
+			"ScheduleLine": {
+                "PurchasingDocumentItem": {},
+				"ScheduleLine": {},
+				"DelivDateCategory": {},
+				"ScheduleLineDeliveryDate": {},
+				"PurchaseOrderQuantityUnit": {},
+				"ScheduleLineOrderQuantity": {},
+				"ScheduleLineDeliveryTime": {},
+				"PurchaseRequisition": {},
+				"PurchaseRequisitionItem": {},
+				"ScheduleLineCommittedQuantity": {}
 			}
 		}
 	},

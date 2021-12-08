@@ -4,7 +4,6 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"business_partner": {
-		"BusinessPartnerData": ["BusinessPartner", "BusinessPartnerRole"],
 		"BusinessPartner": {},
 		"BusinessPartnerRole": {},
 		"ValidFrom": {},
@@ -18,15 +17,9 @@
 			"StreetName": {},
 			"CityName": {},
 			"PostalCode": {},
-			"Language": {},
-			"to_EmailAddress": {},
-			"to_FaxNumber": {},
-			"to_MobilePhoneNumber": {},
-			"to_PhoneNumber": {},
-			"to_URLAddress": {}
+			"Language": {}
 		},
 		"Purchasing_Organization": {
-			"Supplier_desc": {},
 			"PurchasingOrganization": {},
 			"IncotermsClassification": {},
 			"InvoiceIsGoodsReceiptBased": {},
@@ -41,7 +34,6 @@
 			"DeletionIndicator": {}
 		},
 		"Company": {
-			"Supplier_desc": {},
 			"CompanyCode": {},
 			"PaymentBlockingReason": {},
 			"PaymentMethodsList": {},
