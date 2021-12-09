@@ -4,7 +4,6 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"MaterialPlanningData": {
-		"MaterialPlanningData": ["MRPElementDocumentType", "Material", "MRPPlant"],
 		"MRPElementDocumentType": "MD",
 		"Material": "100141",
 		"MRPPlant": "1000",
