@@ -53,7 +53,7 @@
 		"EquipmentIsAvailable": false,
 		"EquipmentIsInstalled": false,
 		"EquipIsAllocToSuperiorEquip": false,
-		"EquipHasSubOrdinateEquipment": false,
+		"EquipHasSubOrdinateEquipment": "",
 		"CreationDate": "20211110",
 		"LastChangeDateTime": "20211110/10:47:56",
 		"EquipmentIsMarkedForDeletion": false,
