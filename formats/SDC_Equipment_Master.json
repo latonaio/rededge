@@ -58,7 +58,6 @@
 		"LastChangeDateTime": {},
 		"EquipmentIsMarkedForDeletion": {},
 		"BusinessPartner": {
-			"BusinessPartner": ["PartnerFunction", "EquipmentPartnerObjectNmbr"],
 			"PartnerFunction": {},
 			"EquipmentPartnerObjectNmbr": {},
 			"Partner": {},

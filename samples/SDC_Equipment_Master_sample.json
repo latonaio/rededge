@@ -58,7 +58,6 @@
 		"LastChangeDateTime": "20211110/10:47:56",
 		"EquipmentIsMarkedForDeletion": false,
 		"BusinessPartner": {
-			"BusinessPartner": ["PartnerFunction", "EquipmentPartnerObjectNmbr"],
 			"PartnerFunction": "VN",
 			"EquipmentPartnerObjectNmbr": "1",
 			"Partner": "100084",
