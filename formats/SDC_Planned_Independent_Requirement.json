@@ -4,7 +4,6 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"PlannedIndependentRequirement": {
-		"PlannedIndependentRequirement": ["Product", "Plant", "MRPArea", "PlndIndepRqmtType", "PlndIndepRqmtVersion", "RequirementPlan", "RequirementSegment"],
 		"Product": {},
 		"Plant": {},
 		"MRPArea": {},
