@@ -33,7 +33,7 @@
 			"OpExternalProcessingPrice": "1260"
 		}
 	},
-	"api_schema": "/OpEquipmentPRTAssgmt",
+	"api_schema": "/ProductionRoutingHeader",
 	"material_code": "100141",
 	"plant": "1000",
 	"deleted": false
