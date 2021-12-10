@@ -93,6 +93,7 @@
 		}
 	},
 	"api_schema": {},
+	"accepter": {},
 	"purchase_requisition": {},
 	"deleted": {}
 }
