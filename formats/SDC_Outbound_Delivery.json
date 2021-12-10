@@ -129,6 +129,7 @@
 		}
 	},
 	"api_schema": {},
+	"accepter": {},
 	"delivery_document": {},
 	"deleted": {}
 }

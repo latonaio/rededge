@@ -129,6 +129,7 @@
 		}
 	},
 	"api_schema": "sap.s4.beh.outbounddelivery.v1.OutboundDelivery.Created.v1",
+	"accepter": ["PartnerFunction"],
 	"delivery_document": "80000000",
 	"deleted": false
 }
