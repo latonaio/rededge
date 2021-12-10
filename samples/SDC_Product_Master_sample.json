@@ -97,6 +97,7 @@
 		}
 	},
 	"api_schema": "sap.s4.beh.product.v1.Product.Created.v1",
+	"accepter": ["Product", "Plant", "Accounting"],
 	"material_code": "100141",
 	"deleted": false
 }
