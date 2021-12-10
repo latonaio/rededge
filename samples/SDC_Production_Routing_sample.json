@@ -34,6 +34,7 @@
 		}
 	},
 	"api_schema": "/ProductionRoutingHeader",
+	"accepter": {},
 	"material_code": "100141",
 	"plant": "1000",
 	"deleted": false
