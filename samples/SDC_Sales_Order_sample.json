@@ -105,7 +105,7 @@
 			"SDProcessStatus": "C",
 			"DeliveryStatus": "C",
 			"OrderRelatedBillingStatus": "",
-			"PricingElement": {
+			"ItemPricingElement": {
 				"PricingProcedureStep": "910",
 				"PricingProcedureCounter": "1",
 				"ConditionType": "PR00",
