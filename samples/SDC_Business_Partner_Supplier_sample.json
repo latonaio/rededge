@@ -47,6 +47,7 @@
 		}
   },
   "api_schema": "sap.s4.beh.businesspartner.v1.BusinessPartner.Created.v1",
+  "accepter": ["Role"],
   "business_partner_code":  "100084",
   "deleted":  false
 }

@@ -17,7 +17,7 @@
                 "StreetName": "東京都渋谷区",
                 "CityName": "神宮前6-12-18 WeWork Iceberg 3F",
                 "PostalCode": "150-0001",
-                "Language": "JA",
+                "Language": "JA"
 		     },
 		"Sales_Area": {
                 "SalesOrganization": "1000",
@@ -59,6 +59,7 @@
 		}
   },
   "api_schema": "sap.s4.beh.businesspartner.v1.BusinessPartner.Created.v1",
+  "accepter": ["Role"],
   "business_partner_code": "24",
   "deleted": false
 }

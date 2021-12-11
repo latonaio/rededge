@@ -46,6 +46,7 @@
 		}
 	},
 	"api_schema": {},
+	"accepter": {},
 	"business_partner_code": {},
 	"deleted": {}
 }

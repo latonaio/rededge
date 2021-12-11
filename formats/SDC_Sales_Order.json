@@ -106,7 +106,7 @@
 			"SDProcessStatus": {},
 			"DeliveryStatus": {},
 			"OrderRelatedBillingStatus": {},
-			"PricingElement": {
+			"ItemPricingElement": {
 				"PricingProcedureStep": {},
 				"PricingProcedureCounter": {},
 				"ConditionType": {},
