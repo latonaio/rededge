@@ -23,6 +23,7 @@
 		"SourceOfSupplyIsFixed": false
 	},
 	"api_schema": "/A_PurchasingSource",
+	"accepter": ["All"],
 	"material_code": "25",
 	"plant": "1000",
 	"source_list_record": "1",
