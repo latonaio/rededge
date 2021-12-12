@@ -21,6 +21,7 @@
 		"to_MaterialStock": "7"
 	},
 	"api_schema": "/A_MatlStkInAcctMod",
+	"accepter": ["All"],
 	"material_code": "100141",
 	"deleted": false
 }
