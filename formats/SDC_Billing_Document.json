@@ -88,6 +88,7 @@
 		}
 	},
 	"api_schema": {},
+	"accepter": {},
 	"billing_document": {},
 	"deleted": {}
 }
