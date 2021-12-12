@@ -97,7 +97,7 @@
 		}
 	},
 	"api_schema": {},
-	"accepter": {},
+	"accepter": [],
 	"material_code": {},
 	"deleted": {}
 }

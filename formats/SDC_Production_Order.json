@@ -77,7 +77,7 @@
 		}
 	},
 	"api_schema": {},
-	"accepter": {},
+	"accepter": [],
 	"production_order": {},
 	"deleted": {}
 }

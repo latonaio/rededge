@@ -23,7 +23,7 @@
 		"SourceOfSupplyIsFixed": {}
 	},
 	"api_schema": {},
-	"accepter": {},
+	"accepter": [],
 	"material_code": {},
 	"plant": {},
 	"source_list_record": {},
