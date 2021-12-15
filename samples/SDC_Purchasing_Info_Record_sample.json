@@ -71,6 +71,7 @@
 		}
 	},
 	"api_schema": "/sap.s4.beh.purchasinginforecord.v1.PurchasingInfoRecord.Created.v1",
+	"accepter": ["All"],
 	"purchasing_info_record": "5300000079",
 	"deleted": false
 }

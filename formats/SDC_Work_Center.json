@@ -22,6 +22,7 @@
 		"WorkCenterIsToBeDeleted": {}
 	},
 	"api_schema": {},
+	"accepter": [],
 	"work_center_code": {},
 	"deleted": {}
 }
