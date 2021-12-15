@@ -65,6 +65,7 @@
 		}
 	},
 	"api_schema": "sap.s4.beh.equipment.v1.Equipment.Created.v1",
+	"accepter": ["All"],
 	"equipment_code": "10000000",
 	"deleted": false
 }
