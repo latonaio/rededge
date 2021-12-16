@@ -144,6 +144,7 @@
 		}
 	},
 	"api_schema": "sap.s4.beh.salesorder.v1.SalesOrder.Created.v1",
+    "accepter": ["All"],
 	"sales_order": "1",
 	"deleted": false
 }

@@ -78,6 +78,7 @@
 		}
 	},
 	"api_schema": {},
+	"accepter": [],
 	"supplier_invoice": {},
 	"deleted": {}
 }

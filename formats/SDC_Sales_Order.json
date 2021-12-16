@@ -145,6 +145,7 @@
 		}
 	},
 	"api_schema": {},
+	"accepter": [],
 	"sales_order": {},
 	"deleted": false
 }
