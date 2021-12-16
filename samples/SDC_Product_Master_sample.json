@@ -74,7 +74,6 @@
 			}
 		},
 		"Sales_Organization": {
-			"Sales_Organization_DistChannel": ["ProductSalesOrg", "ProductDistributionChnl"],
 			"ProductSalesOrg": "1000",
 			"ProductDistributionChnl": "01",
 			"SupplyingPlant": "1000",

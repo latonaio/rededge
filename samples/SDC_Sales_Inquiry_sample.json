@@ -91,6 +91,7 @@
 		}
 	},
 	"api_schema": "sap.s4.beh.salesinquiry.v1.SalesInquiry.Created.v1",
+    "accepter": ["All"],
 	"sales_inquiry": "10000000",
 	"deleted": false
 }
