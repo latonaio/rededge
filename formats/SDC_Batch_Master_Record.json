@@ -19,6 +19,7 @@
 		"BatchIsMarkedForDeletion": {}
 	},
 	"api_schema": {},
+	"accepter": [],
 	"material_code": {},
 	"plant": {},
 	"batch_code": {},
