@@ -19,6 +19,7 @@
 		"LastChangeDate": "20210630"
 	},
 	"api_schema": "/PlannedIndepRqmt(Product='{Product}',Plant='{Plant}',MRPArea='{MRPArea}',PlndIndepRqmtType='{PlndIndepRqmtType}',PlndIndepRqmtVersion='{PlndIndepRqmtVersion}',RequirementPlan='{RequirementPlan}',RequirementSegment='{RequirementSegment}')/to_PlndIndepRqmtItem",
+	"accepter": ["All"],
 	"material_code": "100141",
 	"plant": "1000",
 	"deleted": false

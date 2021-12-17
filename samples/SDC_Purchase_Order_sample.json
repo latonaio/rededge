@@ -115,6 +115,7 @@
 		}
 	},
 	"api_schema": "/sap.s4.beh.purchaseorder.v1.PurchaseOrder.Created.v1",
+	"accepter": ["All"],
 	"purchase_order": "4500000075",
 	"deleted": false
 }

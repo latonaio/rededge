@@ -38,6 +38,7 @@
 		"MRPElementIsReleased": false
 	},
 	"api_schema": "/SupplyDemandItems",
+	"accepter": ["All"],
 	"material_code": "100141",
 	"plant": "1000",
 	"deleted": false
